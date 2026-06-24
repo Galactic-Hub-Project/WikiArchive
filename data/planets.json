@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T10:04:58.793240+00:00",
+    "generated_at": "2026-06-24T09:53:21.686030+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1046,
+    "count": 1047,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -6719,6 +6719,26 @@
       "discovered_by": "",
       "discoverer_page": "Travars",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Travars"
+    },
+    {
+      "page": "Hafte",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hafte",
+      "name": "Hafte",
+      "body_type": "Planet",
+      "image_name": "hafte.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/hafte.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "205209555D30",
+      "description": "Rainy Planet",
+      "biome": "Lush",
+      "weather": "Superheated Drizzle",
+      "sky_color": "Blue",
+      "grass_color": "Green",
+      "sentinel": "Irregular Patrols",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tjawsome7305"
     },
     {
       "page": "Hailsborg",

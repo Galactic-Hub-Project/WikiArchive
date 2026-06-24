@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T10:05:00.743009+00:00",
+    "generated_at": "2026-06-24T09:53:23.802091+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Minerals",
-    "count": 104,
+    "count": 105,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -717,6 +717,19 @@
       "discovered_by": "",
       "discoverer_page": "Randomner",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner"
+    },
+    {
+      "page": "Lalovsite",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Lalovsite",
+      "name": "Lalovsite",
+      "image_name": "lalovsite_1.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/lalovsite_1.png",
+      "galaxy": "Euclid",
+      "glyphs": "13FECE588C1D",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "G'fudi",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
     },
     {
       "page": "Lavamelon (Gahdanoite)",

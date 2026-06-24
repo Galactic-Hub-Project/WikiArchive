@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T10:05:05.177630+00:00",
+    "generated_at": "2026-06-24T09:53:28.549100+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 376,
+    "count": 377,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1058,6 +1058,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Destroyer of Gravity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Destroyer_of_Gravity",
+      "name": "Destroyer of Gravity",
+      "image_name": "Destroyer of Gravity.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/56/Destroyer_of_Gravity.png",
+      "type": "Alien",
+      "galaxy": "Euclid",
+      "glyphs": "11E6D0589C1D",
+      "civilization": "Galactic Hub Project",
+      "slots": "20",
+      "mt_class": "[[File:CLASS.A.png | 30px | alt=A Class | link=]]",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Destroyer of Kihgorsko-XVII",

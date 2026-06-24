@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T10:04:47.266440+00:00",
+    "generated_at": "2026-06-24T09:53:09.694024+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Flora",
-    "count": 156,
+    "count": 159,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -302,6 +302,21 @@
       "discovered_by": "",
       "discoverer_page": "Mortaine",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
+    },
+    {
+      "page": "C. Spongetimea",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/C._Spongetimea",
+      "name": "C. Spongetimea",
+      "image_name": "spongetimea_2.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/spongetimea_2.png",
+      "galaxy": "Euclid",
+      "glyphs": "13FECE588C1D",
+      "biome": "Toxic",
+      "type": "Flower",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "G'fudi",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
     },
     {
       "page": "C. Swampatqus",
@@ -1729,6 +1744,21 @@
       "discoverer_url": ""
     },
     {
+      "page": "R. Snapbonium",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/R._Snapbonium",
+      "name": "R. Snapbonium",
+      "image_name": "snapbodium_1.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/snapbodium_1.png",
+      "galaxy": "Euclid",
+      "glyphs": "3011CE58AC1F",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "G'fudi",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
+    },
+    {
       "page": "R. Srumixtera",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/R._Srumixtera",
       "name": "R. Srumixtera",
@@ -2192,6 +2222,21 @@
       "discovered_by": "",
       "discoverer_page": "Mortaine",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
+    },
+    {
+      "page": "Y. Dustzucis",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Y._Dustzucis",
+      "name": "Y. Dustzucis",
+      "image_name": "dustzucis_1.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/dustzucis_1.png",
+      "galaxy": "Euclid",
+      "glyphs": "3011CE58AC1F",
+      "biome": "Lush",
+      "type": "Flower",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "G'fudi",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi"
     },
     {
       "page": "Y. Gasortyum",

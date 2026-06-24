@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T10:04:27.242570+00:00",
+    "generated_at": "2026-06-24T09:52:45.328248+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1123,
+    "count": 1131,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -226,6 +226,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "Aegis of the Radom",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Aegis_of_the_Radom",
+      "name": "Aegis of the Radom",
+      "image_name": "AegisOfTheRadom-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c3/AegisOfTheRadom-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11B20A555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Aeron-9-2E",
@@ -2068,6 +2084,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
     },
     {
+      "page": "Burned-S25/7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-S25/7",
+      "name": "Burned-S25/7",
+      "image_name": "Burned-S25-7.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/32/Burned-S25-7.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23ECD0588C1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Burned-Y-IP5/P89",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-Y-IP5/P89",
       "name": "Burned-Y-IP5/P89",
@@ -2143,6 +2175,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "241BD058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Burned-\u03bf",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-%CE%BF",
+      "name": "Burned-\u03bf",
+      "image_name": "Burned-\u03bf.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/13/Burned-%CE%BF.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23EDD0588C1E",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -6100,6 +6148,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Hope-\u03bb",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CE%BB",
+      "name": "Hope-\u03bb",
+      "image_name": "Hope-\u03bb.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9d/Hope-%CE%BB.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "31E6D0589C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Hope-\u03be",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CE%BE",
       "name": "Hope-\u03be",
@@ -8356,6 +8420,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "Motoment of the Korvax",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Motoment_of_the_Korvax",
+      "name": "Motoment of the Korvax",
+      "image_name": "MotomentOfTheKorvax-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/68/MotomentOfTheKorvax-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "MS Bulk of Kaham",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/MS_Bulk_of_Kaham",
       "name": "MS Bulk of Kaham",
@@ -9716,6 +9796,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Okuchuor VH3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Okuchuor_VH3",
+      "name": "Okuchuor VH3",
+      "image_name": "OkuchuorVH3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e8/OkuchuorVH3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "319408557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Omakur's Dream GU6",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Omakur%27s_Dream_GU6",
       "name": "Omakur's Dream GU6",
@@ -10399,6 +10495,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "308F08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "QX1 Noharas",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/QX1_Noharas",
+      "name": "QX1 Noharas",
+      "image_name": "QX1Noharas-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b9/QX1Noharas-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "319408557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -15266,6 +15378,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "The Vision of Gravity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Vision_of_Gravity",
+      "name": "The Vision of Gravity",
+      "image_name": "TheVisionOfGravity-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ee/TheVisionOfGravity-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Voice of Perfection",
