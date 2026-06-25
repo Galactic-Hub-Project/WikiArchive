@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T09:52:45.328248+00:00",
+    "generated_at": "2026-06-25T09:46:04.496424+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1131,
+    "count": 1139,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -802,6 +802,22 @@
       "discovered_by": "",
       "discoverer_page": "Daidact",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Daidact"
+    },
+    {
+      "page": "Anyorub's Visionary Pathfinder",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Anyorub%27s_Visionary_Pathfinder",
+      "name": "Anyorub's Visionary Pathfinder",
+      "image_name": "AnyorubsVisionaryPathfinder-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/26/AnyorubsVisionaryPathfinder-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Anzaifur Trailblazer III",
@@ -2066,6 +2082,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Burned-IP0-YE2-P",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-IP0-YE2-P",
+      "name": "Burned-IP0-YE2-P",
+      "image_name": "Burned-IP0-YE2-P.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/2b/Burned-IP0-YE2-P.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2402D0588C1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Burned-KL9-59P",
@@ -4082,6 +4114,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "FC4 Kisan",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/FC4_Kisan",
+      "name": "FC4 Kisan",
+      "image_name": "FC4Kisan-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/6b/FC4Kisan-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "FE1 Gusuk",
@@ -9716,6 +9764,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "Oigare's Resistance YC4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Oigare%27s_Resistance_YC4",
+      "name": "Oigare's Resistance YC4",
+      "image_name": "OigaresResistanceYC4-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f2/OigaresResistanceYC4-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "118808557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Oitachi GP3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Oitachi_GP3",
       "name": "Oitachi GP3",
@@ -13108,6 +13172,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "Swift Prophecy FG1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Swift_Prophecy_FG1",
+      "name": "Swift Prophecy FG1",
+      "image_name": "SwiftProphecyFG1-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/85/SwiftProphecyFG1-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "418808557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Swift Vision UB5",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Swift_Vision_UB5",
       "name": "Swift Vision UB5",
@@ -14548,6 +14628,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Mirror of the Moon",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Mirror_of_the_Moon",
+      "name": "The Mirror of the Moon",
+      "image_name": "TheMirrorOfTheMoon-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0f/TheMirrorOfTheMoon-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Mistress of Infinity",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Mistress_of_Infinity",
       "name": "The Mistress of Infinity",
@@ -15090,6 +15186,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "The Song of Dreams",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Song_of_Dreams",
+      "name": "The Song of Dreams",
+      "image_name": "TheSongOfDreams-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/TheSongOfDreams-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "418808557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Song of the Korvax",
@@ -16706,6 +16818,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "WI2 Sodega",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/WI2_Sodega",
+      "name": "WI2 Sodega",
+      "image_name": "WI2Sodega-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/18/WI2Sodega-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "517008557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Winged Apostle WZ9",

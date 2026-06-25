@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T09:53:21.686030+00:00",
+    "generated_at": "2026-06-25T09:46:41.202155+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1047,
@@ -20717,8 +20717,8 @@
       "sentinel": "Spread Thin",
       "civilization": "Galactic Hub Eissentam",
       "discovered_by": "",
-      "discoverer_page": "OhDraw",
-      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "Yunuska",
