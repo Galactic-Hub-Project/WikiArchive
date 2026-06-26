@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T09:46:04.496424+00:00",
+    "generated_at": "2026-06-26T09:53:29.216973+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1139,
+    "count": 1142,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -6084,6 +6084,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
     },
     {
+      "page": "Honmat's Voyage TU5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Honmat%27s_Voyage_TU5",
+      "name": "Honmat's Voyage TU5",
+      "image_name": "HonmatsVoyageTU5-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4d/HonmatsVoyageTU5-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "107B08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Honmata of the Moon",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Honmata_of_the_Moon",
       "name": "Honmata of the Moon",
@@ -7362,6 +7378,22 @@
       "discovered_by": "",
       "discoverer_page": "YucaFrita",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
+    },
+    {
+      "page": "Kabir's Gravity Defender",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kabir%27s_Gravity_Defender",
+      "name": "Kabir's Gravity Defender",
+      "image_name": "KabirsGravityDefender-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/69/KabirsGravityDefender-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "107B08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Kahamura's Parallax Protector",
@@ -17407,6 +17439,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "30C808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "ZX5 Odawa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/ZX5_Odawa",
+      "name": "ZX5 Odawa",
+      "image_name": "ZX5Odawa-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/77/ZX5Odawa-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "107B08555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
