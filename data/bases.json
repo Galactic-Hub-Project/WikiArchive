@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T09:53:48.562049+00:00",
+    "generated_at": "2026-06-27T08:51:36.782952+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1659,
+    "count": 1657,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -24199,21 +24199,6 @@
       "glyphs": "2010F8556C30"
     },
     {
-      "page": "Where a quiet Memory sat.",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Where_a_quiet_Memory_sat.",
-      "name": "Where a quiet Memory sat.",
-      "image_name": "NmsMisc_NotAvailable.png",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/NmsMisc_NotAvailable.png",
-      "builder": "",
-      "builder_link": "Ryldvir Redbeard",
-      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Ryldvir_Redbeard",
-      "game_release": "Voyagers",
-      "type": "Artistic",
-      "galaxy": "Euclid",
-      "civilization": "Galactic Hub Project",
-      "glyphs": "2205D058AC1D"
-    },
-    {
       "page": "Whispering Cottages",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Whispering_Cottages",
       "name": "Whispering Cottages",
@@ -24842,21 +24827,6 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "506BCF58AC1F"
-    },
-    {
-      "page": "Zero-G Tactical & Supply",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Zero-G_Tactical_%26_Supply",
-      "name": "Zero-G Tactical & Supply",
-      "image_name": "NmsMisc_NotAvailable.png",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/NmsMisc_NotAvailable.png",
-      "builder": "Phalltea",
-      "builder_link": "",
-      "builder_url": "",
-      "game_release": "Voyagers",
-      "type": "Business",
-      "galaxy": "Euclid",
-      "civilization": "Galactic Hub Project",
-      "glyphs": "2205D058AC1D"
     },
     {
       "page": "Ziow's Blood Sweat and Silver",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T09:53:29.216973+00:00",
+    "generated_at": "2026-06-27T08:51:18.707455+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1142,
+    "count": 1143,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1666,6 +1666,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Blessed-\u03bf\u03bb",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blessed-%CE%BF%CE%BB",
+      "name": "Blessed-\u03bf\u03bb",
+      "image_name": "Blessed-\u03bf\u03bb.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a4/Blessed-%CE%BF%CE%BB.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "240AD058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Blessed-\u03c4",

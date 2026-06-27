@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T09:54:19.685152+00:00",
+    "generated_at": "2026-06-27T08:52:05.891443+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 665,
+    "count": 666,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3836,6 +3836,33 @@
       "discovered_by": "",
       "discoverer_page": "BloodyEyes",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/BloodyEyes"
+    },
+    {
+      "page": "HUB13-1AD Potoudi",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB13-1AD_Potoudi",
+      "name": "HUB13-1AD Potoudi",
+      "image_name": "potoudi_sys_main.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/potoudi_sys_main.png",
+      "galaxy": "Euclid",
+      "region": "Qerooit Terminus",
+      "stars": "",
+      "planets": "6",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "G8pf",
+      "glyphs": "11ADD0589C1F",
+      "water": "Yes",
+      "dissonant": "No",
+      "faction": "Gek",
+      "economy": "Mining",
+      "economy_sell": "75.3%",
+      "economy_buy": "-20.3%",
+      "wealth": "\u2605\u2605 (Developing)",
+      "conflict": "\u2605 (Relaxed)",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "HUB13-1E8 Unsari-Iri",
