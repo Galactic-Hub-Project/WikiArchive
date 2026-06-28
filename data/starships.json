@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T08:51:18.707455+00:00",
+    "generated_at": "2026-06-28T09:34:22.542189+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1143,
+    "count": 1145,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -10932,6 +10932,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Reborn-\u03c3 (HUB16-3F6)",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reborn-%CF%83_(HUB16-3F6)",
+      "name": "Reborn-\u03c3 (HUB16-3F6)",
+      "image_name": "Reborn-\u03c3.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a6/Reborn-%CF%83.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23F6D058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Reborn-\u03c6",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reborn-%CF%86",
       "name": "Reborn-\u03c6",
@@ -17887,6 +17903,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "23FBD058AC1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "\u039a-Fire",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%9A-Fire",
+      "name": "\u039a-Fire",
+      "image_name": "\u03ba-Fire.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CE%BA-Fire.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2403D058AC1D",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
