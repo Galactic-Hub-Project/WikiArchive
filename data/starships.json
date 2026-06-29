@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T09:34:22.542189+00:00",
+    "generated_at": "2026-06-29T11:25:20.254752+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1145,
+    "count": 1146,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -11154,6 +11154,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Reforged-K",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reforged-K",
+      "name": "Reforged-K",
+      "image_name": "Front View Reforged-K.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/92/Front_View_Reforged-K.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "4155D058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Cpt Crudo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cpt_Crudo"
     },
     {
       "page": "Reforged-\u03b4\u03c5",
