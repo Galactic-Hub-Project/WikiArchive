@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T10:16:22.420984+00:00",
+    "generated_at": "2026-07-03T09:36:38.805225+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1657,
+    "count": 1658,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -782,6 +782,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "5073F9556C31"
+    },
+    {
+      "page": "Apollo Base",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Apollo_Base",
+      "name": "Apollo Base",
+      "image_name": "20260701191057_1.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260701191057_1.jpg",
+      "builder": "",
+      "builder_link": "Indyca",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Indyca",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11BD0A557D30"
     },
     {
       "page": "Apple Discovery Welcome Center",

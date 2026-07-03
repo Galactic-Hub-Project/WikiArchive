@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T10:16:03.110920+00:00",
+    "generated_at": "2026-07-03T09:36:19.285872+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1160,
+    "count": 1163,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -11284,6 +11284,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cpt_Crudo"
     },
     {
+      "page": "Reforged-TP7/26J-TW1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reforged-TP7/26J-TW1",
+      "name": "Reforged-TP7/26J-TW1",
+      "image_name": "Reforged-TP7_26J-TW1.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/Reforged-TP7_26J-TW1.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23F0D058AC1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Reforged-\u03b4\u03c5",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reforged-%CE%B4%CF%85",
       "name": "Reforged-\u03b4\u03c5",
@@ -11506,6 +11522,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Remnant-\u03be\u03c8",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Remnant-%CE%BE%CF%88",
+      "name": "Remnant-\u03be\u03c8",
+      "image_name": "Remnant-\u03be\u03c8.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/94/Remnant-%CE%BE%CF%88.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23FAD058AC1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Remnant-\u03c1",
@@ -14610,6 +14642,22 @@
       "discovered_by": "",
       "discoverer_page": "Italicinterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Italicinterloper"
+    },
+    {
+      "page": "The Lonely Tevenyev",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Lonely_Tevenyev",
+      "name": "The Lonely Tevenyev",
+      "image_name": "LonelyTevenyev-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e8/LonelyTevenyev-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B90A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Lonely Tivnoslant",
