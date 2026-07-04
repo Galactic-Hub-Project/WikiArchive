@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T09:36:19.285872+00:00",
+    "generated_at": "2026-07-04T09:02:29.679481+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1163,
+    "count": 1167,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3906,6 +3906,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Ergievka YT5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ergievka_YT5",
+      "name": "Ergievka YT5",
+      "image_name": "EgrieyevkaYT5-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/68/EgrieyevkaYT5-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "119808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Esennank Sentinel VII",
@@ -9902,7 +9918,7 @@
       "acquisition": "Authenticated",
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
-      "glyphs": "118808557D2F",
+      "glyphs": "11BA08557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -14628,6 +14644,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "The Living Barypolnik",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Living_Barypolnik",
+      "name": "The Living Barypolnik",
+      "image_name": "TheLivingBarypolnik-PortCloseSil.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/8e/TheLivingBarypolnik-PortCloseSil.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B40A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Lonely Lepesskyvi",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Lonely_Lepesskyvi",
       "name": "The Lonely Lepesskyvi",
@@ -15060,6 +15092,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
     },
     {
+      "page": "The Only Fatezhdut",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Only_Fatezhdut",
+      "name": "The Only Fatezhdut",
+      "image_name": "TheOnlyFatezhdut-Port1.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5b/TheOnlyFatezhdut-Port1.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Owl of Providence",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Owl_of_Providence",
       "name": "The Owl of Providence",
@@ -15282,6 +15330,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "The Relentless Flotelenko",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Relentless_Flotelenko",
+      "name": "The Relentless Flotelenko",
+      "image_name": "TheRelentlessFlotololenko-StarboardLit.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d5/TheRelentlessFlotololenko-StarboardLit.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "107B08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Relentless Laksarac",
