@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T09:24:07.511584+00:00",
+    "generated_at": "2026-07-06T11:05:06.638891+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1168,
+    "count": 1187,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -143,6 +143,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "30C808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Abstract Shield TB6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Abstract_Shield_TB6",
+      "name": "Abstract Shield TB6",
+      "image_name": "AbstractShieldTB6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e4/AbstractShieldTB6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -4196,6 +4212,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
     },
     {
+      "page": "Favourite Ojiyos IX",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Favourite_Ojiyos_IX",
+      "name": "Favourite Ojiyos IX",
+      "image_name": "FavouriteOjiyosIX-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/ab/FavouriteOjiyosIX-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Favourite Victory IM1",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Favourite_Victory_IM1",
       "name": "Favourite Victory IM1",
@@ -4242,6 +4274,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "FH6 Rikuze",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/FH6_Rikuze",
+      "name": "FH6 Rikuze",
+      "image_name": "FH6Rikuze-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b8/FH6Rikuze-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "FI9 Ichigi",
@@ -5188,6 +5236,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
     },
     {
+      "page": "Gawasen of Providence",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gawasen_of_Providence",
+      "name": "Gawasen of Providence",
+      "image_name": "GawasenOfProvidence-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b6/GawasenOfProvidence-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Geometric Claws QX1",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Geometric_Claws_QX1",
       "name": "Geometric Claws QX1",
@@ -5282,6 +5346,22 @@
       "discovered_by": "",
       "discoverer_page": "YucaFrita",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
+    },
+    {
+      "page": "Gifugach's Frozen Adventurer",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gifugach%27s_Frozen_Adventurer",
+      "name": "Gifugach's Frozen Adventurer",
+      "image_name": "GifugachsFrozenAdventurer-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/31/GifugachsFrozenAdventurer-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ginai XY1",
@@ -7412,6 +7492,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner"
     },
     {
+      "page": "Jiyodai of the Ancients",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Jiyodai_of_the_Ancients",
+      "name": "Jiyodai of the Ancients",
+      "image_name": "JiyodaiOfTheAncients-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/da/JiyodaiOfTheAncients-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "JK9 Furan",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/JK9_Furan",
       "name": "JK9 Furan",
@@ -9092,6 +9188,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LucasMdA66"
     },
     {
+      "page": "Naman's Hyper Liberator",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Naman%27s_Hyper_Liberator",
+      "name": "Naman's Hyper Liberator",
+      "image_name": "NaimansHyperLiberator-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/85/NaimansHyperLiberator-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Nashiras's Blazing Prospect",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nashiras%27s_Blazing_Prospect",
       "name": "Nashiras's Blazing Prospect",
@@ -9394,6 +9506,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Nitaitam's Transporter",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nitaitam%27s_Transporter",
+      "name": "Nitaitam's Transporter",
+      "image_name": "NitaitamsTransporter-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/48/NitaitamsTransporter-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "NN1 Sodegat",
@@ -10153,15 +10281,15 @@
       "name": "Orskyvin QP3",
       "image_name": "OrskyvinQP3-Infobox.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/44/OrskyvinQP3-Infobox.jpg",
-      "game_release": "Remnant",
+      "game_release": "Xeno Arena",
       "type": "Frigate",
       "acquisition": "Authenticated",
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "1079F9554C2E",
       "discovered_by": "",
-      "discoverer_page": "Nyeks",
-      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Osekino Calculator V",
@@ -10484,6 +10612,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dovahren"
     },
     {
+      "page": "Prime Yasuku X",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Prime_Yasuku_X",
+      "name": "Prime Yasuku X",
+      "image_name": "PrimeYasukuX-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/ff/PrimeYasukuX-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Prophecy of the Aikawaji",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Prophecy_of_the_Aikawaji",
       "name": "Prophecy of the Aikawaji",
@@ -10498,6 +10642,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "Prophecy of the Kudamak",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Prophecy_of_the_Kudamak",
+      "name": "Prophecy of the Kudamak",
+      "image_name": "ProphecyOfTheKudamak-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7b/ProphecyOfTheKudamak-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Prophecy of the Sodeg",
@@ -11234,6 +11394,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Reflection of the Awach",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reflection_of_the_Awach",
+      "name": "Reflection of the Awach",
+      "image_name": "ReflectionOfTheAwach-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/77/ReflectionOfTheAwach-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Reflection of the Neyaga",
@@ -12002,6 +12178,22 @@
       "discovered_by": "ncn",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Saijon's Hand",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Saijon%27s_Hand",
+      "name": "Saijon's Hand",
+      "image_name": "SaijonsHand-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fb/SaijonsHand-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Sakuchim's Deadly War-Spear",
@@ -13620,6 +13812,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
     },
     {
+      "page": "Talon of the Akawara",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Talon_of_the_Akawara",
+      "name": "Talon of the Akawara",
+      "image_name": "TalonOfTheAkawara-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a9/TalonOfTheAkawara-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Tarutor's Pride CY6",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Tarutor%27s_Pride_CY6",
       "name": "Tarutor's Pride CY6",
@@ -13874,6 +14082,22 @@
       "discovered_by": "",
       "discoverer_page": "HayleyGeek",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/HayleyGeek"
+    },
+    {
+      "page": "The Breath of the Wind",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Breath_of_the_Wind",
+      "name": "The Breath of the Wind",
+      "image_name": "TheBreathOfTheWind-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4f/TheBreathOfTheWind-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Claws of the Abyss",
@@ -14532,6 +14756,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Hawk of Dreams",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Hawk_of_Dreams",
+      "name": "The Hawk of Dreams",
+      "image_name": "TheHawkOfDreams-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/94/TheHawkOfDreams-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Hawk of the Ether",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Hawk_of_the_Ether",
       "name": "The Hawk of the Ether",
@@ -15106,6 +15346,22 @@
       "discovered_by": "",
       "discoverer_page": "Nyeks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+    },
+    {
+      "page": "The Omen of the Abyss",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Omen_of_the_Abyss",
+      "name": "The Omen of the Abyss",
+      "image_name": "TheOmenOfTheAbyss-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e7/TheOmenOfTheAbyss-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Only Fatezhdut",
@@ -16628,6 +16884,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Urihonma CA4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Urihonma_CA4",
+      "name": "Urihonma CA4",
+      "image_name": "UrihonmaCA4-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e1/UrihonmaCA4-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Urugash JC4",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Urugash_JC4",
       "name": "Urugash JC4",
@@ -16914,6 +17186,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Visionary Pillar IB3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Visionary_Pillar_IB3",
+      "name": "Visionary Pillar IB3",
+      "image_name": "VisionaryPillarIB3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/22/VisionaryPillarIB3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Visionary Sword WY3",
@@ -17705,7 +17993,7 @@
       "name": "Zamak R09",
       "image_name": "Screenshot 2026-03-06 130810.png",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/48/Screenshot_2026-03-06_130810.png",
-      "game_release": "Remnant",
+      "game_release": "Xeno Arena",
       "type": "Fighter",
       "acquisition": "Authenticated",
       "galaxy": "Calypso",
@@ -17826,6 +18114,22 @@
       "discovered_by": "",
       "discoverer_page": "YucaFrita",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
+    },
+    {
+      "page": "Zumizur Roamer IV",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Zumizur_Roamer_IV",
+      "name": "Zumizur Roamer IV",
+      "image_name": "ZumizurRoamerIV-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9a/ZumizurRoamerIV-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Zuwak TE8",

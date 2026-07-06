@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T09:24:31.037286+00:00",
+    "generated_at": "2026-07-06T11:05:29.419227+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1658,
+    "count": 1657,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -20192,21 +20192,6 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
-    },
-    {
-      "page": "TC'S Arhu Dwelling",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/TC%27S_Arhu_Dwelling",
-      "name": "TC'S Arhu Dwelling",
-      "image_name": "No Man's Sky_20250720163956.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/No%20Man%27s%20Sky_20250720163956.jpg",
-      "builder": "",
-      "builder_link": "TCGamer",
-      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/TCGamer",
-      "game_release": "Beacon",
-      "type": "Residential",
-      "galaxy": "Euclid",
-      "civilization": "Galactic Hub Project",
-      "glyphs": "5074CF589C1E"
     },
     {
       "page": "TDD Corporate",
