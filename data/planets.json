@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T11:05:48.046925+00:00",
+    "generated_at": "2026-07-07T10:02:59.414577+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1047,
+    "count": 1048,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -1756,9 +1756,9 @@
       "grass_color": "",
       "sentinel": "Intermittent",
       "civilization": "Galactic Hub Eissentam",
-      "discovered_by": "[[User:Tjawsome7305|A random Typewriter]]",
-      "discoverer_page": "",
-      "discoverer_url": ""
+      "discovered_by": "A random Typewriter",
+      "discoverer_page": "Tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tjawsome7305"
     },
     {
       "page": "Aserussen Shib",
@@ -7396,9 +7396,9 @@
       "grass_color": "",
       "sentinel": "Unwavering",
       "civilization": "Galactic Hub Eissentam",
-      "discovered_by": "[[User:Tjawsome7305|A random Typewriter]]",
-      "discoverer_page": "",
-      "discoverer_url": ""
+      "discovered_by": "",
+      "discoverer_page": "Tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tjawsome7305"
     },
     {
       "page": "Hofu 99/K3",
@@ -11901,6 +11901,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Travars"
     },
     {
+      "page": "Naysan P4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Naysan_P4",
+      "name": "Naysan P4",
+      "body_type": "Planet",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
+      "galaxy": "Euclid",
+      "glyphs": "1033CF589C1E",
+      "description": "The Nest",
+      "biome": "Lush",
+      "weather": "Blistering Damp",
+      "sky_color": "Blue",
+      "grass_color": "Yellow",
+      "sentinel": "Few",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "Niki",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
       "page": "Necanc III",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Necanc_III",
       "name": "Necanc III",
@@ -13456,9 +13476,9 @@
       "grass_color": "",
       "sentinel": "Enforcing",
       "civilization": "Galactic Hub Eissentam",
-      "discovered_by": "[[User:Tjawsome7305|A random Typewriter]]",
-      "discoverer_page": "",
-      "discoverer_url": ""
+      "discovered_by": "",
+      "discoverer_page": "Tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tjawsome7305"
     },
     {
       "page": "Nutrya Alpha",
