@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T10:02:17.613813+00:00",
+    "generated_at": "2026-07-08T08:45:37.865049+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1194,
+    "count": 1195,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -15247,6 +15247,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "217108555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Mirror of Perfection",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Mirror_of_Perfection",
+      "name": "The Mirror of Perfection",
+      "image_name": "TheMirrorOfPerfection-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/63/TheMirrorOfPerfection-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11AB0A555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

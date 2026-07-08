@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T10:02:59.414577+00:00",
+    "generated_at": "2026-07-08T08:46:20.406338+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1048,
+    "count": 1049,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -2617,6 +2617,26 @@
       "sentinel": "Isolated",
       "civilization": "Legacy Galactic Hub",
       "discovered_by": "The Obvious Guy",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
+      "page": "Boeoti Z3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Boeoti_Z3",
+      "name": "Boeoti Z3",
+      "body_type": "Planet",
+      "image_name": "boeoti_z3.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/boeoti_z3.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "509F09555D30",
+      "description": "High Radio Source Moon",
+      "biome": "Irradiated",
+      "weather": "Extreme Thermonuclear Fog",
+      "sky_color": "Green",
+      "grass_color": "Green",
+      "sentinel": "Sparse",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "real_clever_name",
       "discoverer_page": "",
       "discoverer_url": ""
     },
