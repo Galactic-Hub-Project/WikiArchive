@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T09:58:54.746152+00:00",
+    "generated_at": "2026-07-10T09:54:31.650617+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1195,
+    "count": 1199,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4916,6 +4916,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
     },
     {
+      "page": "Flying Marvel YP9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flying_Marvel_YP9",
+      "name": "Flying Marvel YP9",
+      "image_name": "FlyingMarvelYP9-Main.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/be/FlyingMarvelYP9-Main.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Flying Mikyush III",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flying_Mikyush_III",
       "name": "Flying Mikyush III",
@@ -7666,6 +7682,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Kashim's Desperation",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kashim%27s_Desperation",
+      "name": "Kashim's Desperation",
+      "image_name": "KashimsDesperation-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/KashimsDesperation-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Kazuno's Frozen Future",
@@ -14594,6 +14626,38 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "The First Telonymitim",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_First_Telonymitim",
+      "name": "The First Telonymitim",
+      "image_name": "TheFirstTelonymitim-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/ba/TheFirstTelonymitim-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "20C808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The First Triyevskyv",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_First_Triyevskyv",
+      "name": "The First Triyevskyv",
+      "image_name": "The-First-Triyevskyv-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4d/The-First-Triyevskyv-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The First Yunguryupi",

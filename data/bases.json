@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T09:59:17.776366+00:00",
+    "generated_at": "2026-07-10T09:54:50.928095+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1657,
+    "count": 1658,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1877,6 +1877,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "501BF9557C30"
+    },
+    {
+      "page": "Bio-Dome BOOM Box",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Bio-Dome_BOOM_Box",
+      "name": "Bio-Dome BOOM Box",
+      "image_name": "19f497e9ef78-screenshotUrl.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/de/19f497e9ef78-screenshotUrl.jpg",
+      "builder": "",
+      "builder_link": "RetroTerrestrial",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/RetroTerrestrial",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "13EBCF588C1D"
     },
     {
       "page": "Biodomes",
