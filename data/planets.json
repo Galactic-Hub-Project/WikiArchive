@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T09:55:05.917766+00:00",
+    "generated_at": "2026-07-11T08:17:09.283472+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1049,
+    "count": 1050,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -2624,7 +2624,7 @@
       "page": "Boeoti Z3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Boeoti_Z3",
       "name": "Boeoti Z3",
-      "body_type": "Planet",
+      "body_type": "Moon",
       "image_name": "boeoti_z3.landscape.day.jpg",
       "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/boeoti_z3.landscape.day.jpg",
       "galaxy": "Eissentam",
@@ -16199,6 +16199,26 @@
       "discovered_by": "",
       "discoverer_page": "Nyeks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+    },
+    {
+      "page": "Rilandia VIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rilandia_VIII",
+      "name": "Rilandia VIII",
+      "body_type": "Moon",
+      "image_name": "rilandia_viii.landscape.day2.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/rilandia_viii.landscape.day2.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "441009555D2F",
+      "description": "Abandoned",
+      "biome": "Frozen",
+      "weather": "Frost",
+      "sky_color": "Blue",
+      "grass_color": "White",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "Cresnautic",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
     },
     {
       "page": "Rilandow Sigma",

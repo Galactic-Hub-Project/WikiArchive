@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T09:54:50.928095+00:00",
+    "generated_at": "2026-07-11T08:16:53.796798+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1658,
+    "count": 1659,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -6302,6 +6302,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "6144F9555C2F"
+    },
+    {
+      "page": "Fallen Freighter Cove",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Fallen_Freighter_Cove",
+      "name": "Fallen Freighter Cove",
+      "image_name": "NoMan'sSky-FallenFreighterCove.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9b/NoMan%27sSky-FallenFreighterCove.png",
+      "builder": "STARK1LLER02",
+      "builder_link": "Starkiller702",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Starkiller702",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "1086D0508AC1E"
     },
     {
       "page": "Fallen Spawn Research Outpost",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T09:54:31.650617+00:00",
+    "generated_at": "2026-07-11T08:16:33.267560+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1199,
+    "count": 1201,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -14868,6 +14868,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "The Haunted Dudivino",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Haunted_Dudivino",
+      "name": "The Haunted Dudivino",
+      "image_name": "TheHauntedDuduvino-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e3/TheHauntedDuduvino-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Haunted Mitroren",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Haunted_Mitroren",
       "name": "The Haunted Mitroren",
@@ -15922,6 +15938,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "The Sleeping Dalmyozy",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Sleeping_Dalmyozy",
+      "name": "The Sleeping Dalmyozy",
+      "image_name": "TheSleepingDalmyozy-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f3/TheSleepingDalmyozy-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "108F08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Sleeping Fufiksovs",
