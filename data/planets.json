@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T08:33:51.900692+00:00",
+    "generated_at": "2026-07-12T20:01:39.867790+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1052,
+    "count": 1054,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -11921,6 +11921,26 @@
       "discoverer_url": ""
     },
     {
+      "page": "Naxosini",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Naxosini",
+      "name": "Naxosini",
+      "body_type": "Planet",
+      "image_name": "naxosini.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/naxosini.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "141009555D2F",
+      "description": "Verdant Giant",
+      "biome": "Lush",
+      "weather": "Intense Heatbursts",
+      "sky_color": "Orange",
+      "grass_color": "Red",
+      "sentinel": "Unwavering",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "Cresnautic",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
       "page": "Nayme Prime",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nayme_Prime",
       "name": "Nayme Prime",
@@ -13839,6 +13859,26 @@
       "discovered_by": "",
       "discoverer_page": "BASEBALL988",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/BASEBALL988"
+    },
+    {
+      "page": "Oemf",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Oemf",
+      "name": "Oemf",
+      "body_type": "Moon",
+      "image_name": "oemf.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/oemf.landscape.day.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "21DCCE58AC1F",
+      "description": "Toxic Moon",
+      "biome": "Toxic",
+      "weather": "Pouring Toxic Rain",
+      "sky_color": "Yellow",
+      "grass_color": "Brown",
+      "sentinel": "Regular Patrols",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Ofkalt",
@@ -19352,8 +19392,8 @@
       "description": "Rocky Planet",
       "biome": "Barren",
       "weather": "Dangerously Hot",
-      "sky_color": "Blue/Red/Green/Yellow/Purple/Orange",
-      "grass_color": "Blue/Red/Green/Yellow/Purple/White/Orange/Brown/Color Shift",
+      "sky_color": "Yellow",
+      "grass_color": "Green",
       "sentinel": "Frequent",
       "civilization": "Galactic Hub Project",
       "discovered_by": "",

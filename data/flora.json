@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T08:33:36.254616+00:00",
+    "generated_at": "2026-07-12T20:01:24.164785+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Flora",
-    "count": 163,
+    "count": 164,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2222,6 +2222,21 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "X. Rottbavenae",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/X._Rottbavenae",
+      "name": "X. Rottbavenae",
+      "image_name": "f.xrott.sunflower.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/f.xrott.sunflower.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "21DCCE58AC1F",
+      "biome": "Toxic",
+      "type": "Tree",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "Anatomyofamind",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "X. Swamplaureum",

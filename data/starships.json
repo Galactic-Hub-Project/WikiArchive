@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T08:33:09.624643+00:00",
+    "generated_at": "2026-07-12T20:00:57.640060+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1207,
+    "count": 1208,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -14527,6 +14527,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "308F08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Dying Burgats",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Dying_Burgats",
+      "name": "The Dying Burgats",
+      "image_name": "TheDyingBurgats-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fa/TheDyingBurgats-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31AC0A555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
