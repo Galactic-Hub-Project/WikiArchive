@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T08:17:16.620912+00:00",
+    "generated_at": "2026-07-12T08:34:00.772246+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 377,
+    "count": 378,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2450,6 +2450,22 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "Kiss of the Abyss",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kiss_of_the_Abyss",
+      "name": "Kiss of the Abyss",
+      "image_name": "25-137-KissoftheAbyss-Rack.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/ca/25-137-KissoftheAbyss-Rack.jpg",
+      "type": "Pistol",
+      "galaxy": "Eissentam",
+      "glyphs": "613708557D2F",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "13",
+      "mt_class": "B",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Kiss of the Ancients 3-E9",

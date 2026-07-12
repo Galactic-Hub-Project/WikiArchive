@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T08:17:25.004206+00:00",
+    "generated_at": "2026-07-12T08:34:10.812288+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 678,
+    "count": 679,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2185,7 +2185,7 @@
       "economy_buy": "",
       "wealth": "\u2605\u2605 Medium Supply",
       "conflict": "2 Fractious",
-      "civilization": "Galactic Hub",
+      "civilization": "Galactic Hub Project",
       "discovered_by": "Niki",
       "discoverer_page": "",
       "discoverer_url": ""
@@ -9749,6 +9749,33 @@
       "discovered_by": "[[User:Spacebird|Vardan]]",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB25-137 Zoagwa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB25-137_Zoagwa",
+      "name": "HUB25-137 Zoagwa",
+      "image_name": "Zoagwa-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/28/Zoagwa-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Zodonib Void",
+      "stars": "",
+      "planets": "6",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "G8pf",
+      "glyphs": "613708557D2F",
+      "water": "Yes",
+      "dissonant": "No",
+      "faction": "Gek",
+      "economy": "Mercantile",
+      "economy_sell": "72.7%",
+      "economy_buy": "-19.2%",
+      "wealth": "\u2605\u2605\u2605\ud83d\udc80 (Booming)",
+      "conflict": "2 (Fractious)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB25-170 Dashi-Wu",

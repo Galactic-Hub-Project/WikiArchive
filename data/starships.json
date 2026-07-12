@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T08:16:33.267560+00:00",
+    "generated_at": "2026-07-12T08:33:09.624643+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1201,
+    "count": 1207,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2530,6 +2530,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Colourless Omen YW5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Colourless_Omen_YW5",
+      "name": "Colourless Omen YW5",
+      "image_name": "ColourlessOmenYW5-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a2/ColourlessOmenYW5-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "613708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Colourless Triumph YM2",
@@ -7380,6 +7396,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/HayleyGeek"
     },
     {
+      "page": "Itoiga Auditor II",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Itoiga_Auditor_II",
+      "name": "Itoiga Auditor II",
+      "image_name": "ItoigaAuditorII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c1/ItoigaAuditorII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "613708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Itriysky WB3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Itriysky_WB3",
       "name": "Itriysky WB3",
@@ -8594,6 +8626,22 @@
       "discovered_by": "",
       "discoverer_page": "Daidact",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Daidact"
+    },
+    {
+      "page": "Michiyam's Decree QA9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Michiyam%27s_Decree_QA9",
+      "name": "Michiyam's Decree QA9",
+      "image_name": "MichiyamsChoice-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/06/MichiyamsChoice-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "613708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Michizu of the Moon",
@@ -10466,6 +10514,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "OX6 Enria",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/OX6_Enria",
+      "name": "OX6 Enria",
+      "image_name": "OX6Enria-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f7/OX6Enria-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "613708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Oyabe's Regret",
@@ -16740,6 +16804,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "Toyabe's Ruthless Protector",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Toyabe%27s_Ruthless_Protector",
+      "name": "Toyabe's Ruthless Protector",
+      "image_name": "ToyabesRuthlessProtector-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/78/ToyabesRuthlessProtector-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "108F08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "TP4 Uokaw",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/TP4_Uokaw",
       "name": "TP4 Uokaw",
@@ -17058,6 +17138,22 @@
       "discovered_by": "",
       "discoverer_page": "Randomner",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner"
+    },
+    {
+      "page": "Uoyabor FB9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Uoyabor_FB9",
+      "name": "Uoyabor FB9",
+      "image_name": "UoyaborFB9-Exotic-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/32/UoyaborFB9-Exotic-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "613708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Uozulu Inquirer VII",

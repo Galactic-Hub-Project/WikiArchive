@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T08:17:09.283472+00:00",
+    "generated_at": "2026-07-12T08:33:51.900692+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1050,
+    "count": 1052,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -6839,6 +6839,26 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Hani Prime",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hani_Prime",
+      "name": "Hani Prime",
+      "body_type": "Planet",
+      "image_name": "hani_prime.landscape.lake.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/hani_prime.landscape.lake.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "51DCCE58AC1F",
+      "description": "Bountiful Planet",
+      "biome": "Lush",
+      "weather": "Choking Humidity",
+      "sky_color": "Blue",
+      "grass_color": "Color Shift",
+      "sentinel": "Isolated",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
     },
     {
       "page": "Havenly",
@@ -19319,6 +19339,26 @@
       "discovered_by": "",
       "discoverer_page": "Junebiologist",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Junebiologist"
+    },
+    {
+      "page": "Ulaho Major",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ulaho_Major",
+      "name": "Ulaho Major",
+      "body_type": "Planet",
+      "image_name": "ulaho_major.landscape.day2.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/ulaho_major.landscape.day2.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "61DCCE58AC1F",
+      "description": "Rocky Planet",
+      "biome": "Barren",
+      "weather": "Dangerously Hot",
+      "sky_color": "Blue/Red/Green/Yellow/Purple/Orange",
+      "grass_color": "Blue/Red/Green/Yellow/Purple/White/Orange/Brown/Color Shift",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Ulavacy",
