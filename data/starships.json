@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T20:00:57.640060+00:00",
+    "generated_at": "2026-07-13T09:50:36.552293+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1208,
+    "count": 1210,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -690,6 +690,22 @@
       "discovered_by": "",
       "discoverer_page": "Mortaine",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
+    },
+    {
+      "page": "Alyovsk RC2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Alyovsk_RC2",
+      "name": "Alyovsk RC2",
+      "image_name": "AlyovskRC2-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/25/AlyovskRC2-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11AB0A555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ambacuer's Favourite Void-Dancer",
@@ -15890,6 +15906,22 @@
       "discovered_by": "",
       "discoverer_page": "WiederholdsRule",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/WiederholdsRule"
+    },
+    {
+      "page": "The Screaming Sayankovo",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Screaming_Sayankovo",
+      "name": "The Screaming Sayankovo",
+      "image_name": "TheScreamingSayankovo-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/69/TheScreamingSayankovo-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11B20A555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Screaming Vouralskyv",

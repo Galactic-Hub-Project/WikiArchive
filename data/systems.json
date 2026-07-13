@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T20:01:58.563014+00:00",
+    "generated_at": "2026-07-13T09:51:31.587637+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 680,
+    "count": 681,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -11342,6 +11342,33 @@
       "discovered_by": "",
       "discoverer_page": "Mortaine",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
+    },
+    {
+      "page": "HUB27-AB Otatenstt",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB27-AB_Otatenstt",
+      "name": "HUB27-AB Otatenstt",
+      "image_name": "HUB27-AB-Otatenstt-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/95/HUB27-AB-Otatenstt-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Ewkini Adjunct",
+      "stars": "1",
+      "planets": "3",
+      "moons": "1",
+      "color": "Yellow",
+      "spectral_class": "G9pf",
+      "glyphs": "30AB08555D2F",
+      "water": "No",
+      "dissonant": "No",
+      "faction": "Gek",
+      "economy": "High Tech",
+      "economy_sell": "79.0%",
+      "economy_buy": "-25.9%",
+      "wealth": "\u2605\u2605\u2605 (Prosperous)",
+      "conflict": "1 (Low)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB27-BC Ekings-Itr",
