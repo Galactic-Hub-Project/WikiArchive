@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T09:51:14.952684+00:00",
+    "generated_at": "2026-07-14T08:31:31.308210+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1054,
+    "count": 1057,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -659,6 +659,26 @@
       "discovered_by": "Krentebol01",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Agginin Omega",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Agginin_Omega",
+      "name": "Agginin Omega",
+      "body_type": "Planet",
+      "image_name": "agginin_omega.landscape.mountains.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/agginin_omega.landscape.mountains.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "242109555D30",
+      "description": "Incandescent Planet",
+      "biome": "Scorched",
+      "weather": "Parched",
+      "sky_color": "Purple",
+      "grass_color": "Red",
+      "sentinel": "Isolated",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Aghdaka D34",
@@ -8821,6 +8841,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Grimmstein"
     },
     {
+      "page": "Jeanobe",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Jeanobe",
+      "name": "Jeanobe",
+      "body_type": "Planet",
+      "image_name": "jeanobe.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/jeanobe.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "642109555D30",
+      "description": "Endless Morass",
+      "biome": "Marsh",
+      "weather": "Sultry Disaster",
+      "sky_color": "Blue/",
+      "grass_color": "Purple",
+      "sentinel": "Few",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
+    },
+    {
       "page": "Jibourp G2",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Jibourp_G2",
       "name": "Jibourp G2",
@@ -12970,11 +13010,11 @@
       "galaxy": "Eissentam",
       "glyphs": "50AD09555D30",
       "description": "",
-      "biome": "",
-      "weather": "",
+      "biome": "Lush",
+      "weather": "Torrid Deluges",
       "sky_color": "Blue",
       "grass_color": "Red",
-      "sentinel": "",
+      "sentinel": "Irregular Patrols",
       "civilization": "Galactic Hub Eissentam",
       "discovered_by": "real_clever_name",
       "discoverer_page": "real_clever_name",
@@ -17099,6 +17139,26 @@
       "discovered_by": "",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Shop",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Shop",
+      "name": "Shop",
+      "body_type": "Planet",
+      "image_name": "shop.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/shop.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "11DC09555D30",
+      "description": "Boiling Doom",
+      "biome": "Scorched",
+      "weather": "Self-Igniting Storms",
+      "sky_color": "Yellow",
+      "grass_color": "Brown",
+      "sentinel": "Require Orthodoxy",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Shroom Montis",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T09:50:58.041938+00:00",
+    "generated_at": "2026-07-14T08:31:15.272770+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1659,
+    "count": 1660,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -454,6 +454,21 @@
       "glyphs": "1080F8557C30"
     },
     {
+      "page": "Alder Farm",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Alder_Farm",
+      "name": "Alder Farm",
+      "image_name": "20260713221938_1.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260713221938_1.jpg",
+      "builder": "",
+      "builder_link": "DyingGoat",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/DyingGoat",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "10C3CE589C1F"
+    },
+    {
       "page": "Alex\u2019s Home",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Alex%E2%80%99s_Home",
       "name": "Alex\u2019s Home",
@@ -628,7 +643,7 @@
       "builder_link": "",
       "builder_url": "",
       "game_release": "Beacon",
-      "type": "",
+      "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
@@ -3772,8 +3787,8 @@
       "page": "Col\u00f4nia de Furca-Pius",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Col%C3%B4nia_de_Furca-Pius",
       "name": "Col\u00f4nia de Furca-Pius",
-      "image_name": "1000108605.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/1000108605.jpg",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
       "builder": "",
       "builder_link": "Drakovv4",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Drakovv4",
@@ -4522,8 +4537,8 @@
       "page": "Dead Spot",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Dead_Spot",
       "name": "Dead Spot",
-      "image_name": "2850.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/2850.jpg",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
       "builder": "",
       "builder_link": "JONN19",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/JONN19",
@@ -12073,7 +12088,7 @@
       "builder_link": "Tenaciouslee",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Tenaciouslee",
       "game_release": "Beacon",
-      "type": "",
+      "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "3070D0589C1D"
@@ -13837,8 +13852,8 @@
       "page": "Mt.Uthima Overlook Station",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mt.Uthima_Overlook_Station",
       "name": "Mt.Uthima Overlook Station",
-      "image_name": "1000019985.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/1000019985.jpg",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
       "builder": "Shmattyshots",
       "builder_link": "",
       "builder_url": "",
@@ -16933,7 +16948,7 @@
       "builder_link": "Brohemoth",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Brohemoth",
       "game_release": "Voyagers",
-      "type": "",
+      "type": "Immersive",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
@@ -17023,7 +17038,7 @@
       "builder_link": "",
       "builder_url": "",
       "game_release": "Voyagers",
-      "type": "",
+      "type": "Activity",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "6412CF589C1E"
@@ -18103,7 +18118,7 @@
       "builder_link": "",
       "builder_url": "",
       "game_release": "Voyagers",
-      "type": "",
+      "type": "Immersive",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "220AD058AC1D"
@@ -18478,7 +18493,7 @@
       "builder_link": "",
       "builder_url": "",
       "game_release": "Relics",
-      "type": "",
+      "type": "Artistic",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "5074CF589C1E"
@@ -18622,8 +18637,8 @@
       "page": "Shinsei",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Shinsei",
       "name": "Shinsei",
-      "image_name": "1000145432.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/1000145432.jpg",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
       "builder": "",
       "builder_link": "Mikedoornerk",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Mikedoornerk",
@@ -20383,7 +20398,7 @@
       "builder_link": "Agentomin",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Agentomin",
       "game_release": "Beacon",
-      "type": "",
+      "type": "Artistic",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
@@ -20818,7 +20833,7 @@
       "builder_link": "Agentomin",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Agentomin",
       "game_release": "Beacon",
-      "type": "",
+      "type": "Immersive",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
@@ -22288,7 +22303,7 @@
       "builder_link": "MadamepandoraX",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/MadamepandoraX",
       "game_release": "Beacon",
-      "type": "",
+      "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "5074CF589C1E"
@@ -24058,7 +24073,7 @@
       "builder_link": "Mr. Whimbrel",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Mr._Whimbrel",
       "game_release": "Voyagers",
-      "type": "",
+      "type": "Production",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "11B7CF589C1E"
@@ -24133,7 +24148,7 @@
       "builder_link": "Moroni3756",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Moroni3756",
       "game_release": "Voyagers",
-      "type": "",
+      "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "11D4D058AC1D"

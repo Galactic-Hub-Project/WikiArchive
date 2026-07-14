@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T09:51:31.587637+00:00",
+    "generated_at": "2026-07-14T08:31:46.791108+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
     "count": 681,
@@ -9825,7 +9825,7 @@
       "economy_sell": "44.5%",
       "economy_buy": "-26.9%",
       "wealth": "\u2605\u2605\u2605 (Prosperous)",
-      "conflict": "123 (Low)",
+      "conflict": "\u2605 (Low)",
       "civilization": "Galactic Hub Eissentam",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
