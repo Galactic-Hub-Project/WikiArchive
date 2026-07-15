@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T08:31:15.272770+00:00",
+    "generated_at": "2026-07-15T08:39:46.235164+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1660,
+    "count": 1662,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -462,7 +462,7 @@
       "builder": "",
       "builder_link": "DyingGoat",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/DyingGoat",
-      "game_release": "Xenoarena",
+      "game_release": "Xeno Arena",
       "type": "Residential",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
@@ -15439,6 +15439,21 @@
       "glyphs": "1082F9557C30"
     },
     {
+      "page": "Orbital Loop",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Orbital_Loop",
+      "name": "Orbital Loop",
+      "image_name": "Screenshot 2026-07-14 124536.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bf/Screenshot_2026-07-14_124536.png",
+      "builder": "",
+      "builder_link": "Nyeks",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks",
+      "game_release": "Xeno Arena",
+      "type": "Combat",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "6078FA555C31"
+    },
+    {
       "page": "Orbital Threshold II",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Orbital_Threshold_II",
       "name": "Orbital Threshold II",
@@ -23852,6 +23867,21 @@
       "galaxy": "Eissentam",
       "civilization": "Legacy EisHub",
       "glyphs": "10A4F9556C31"
+    },
+    {
+      "page": "Voxis Outpost",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Voxis_Outpost",
+      "name": "Voxis Outpost",
+      "image_name": "MainBase.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/89/MainBase.jpg",
+      "builder": "Adventurer Voxis",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "Voyager Sanctuary",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T08:31:46.791108+00:00",
+    "generated_at": "2026-07-15T08:40:24.645288+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 681,
+    "count": 682,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -7724,6 +7724,33 @@
       "discovered_by": "",
       "discoverer_page": "Hammersong44",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Hammersong44"
+    },
+    {
+      "page": "HUB2-C Zezhaxin XIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB2-C_Zezhaxin_XIII",
+      "name": "HUB2-C Zezhaxin XIII",
+      "image_name": "HUB2-C-ZehaxinXIII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/63/HUB2-C-ZehaxinXIII-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Sea of Nadsky",
+      "stars": "1",
+      "planets": "5",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "F4p",
+      "glyphs": "100C09555D30",
+      "water": "Yes",
+      "dissonant": "Yes",
+      "faction": "Korvax",
+      "economy": "Mercantile",
+      "economy_sell": "59.1%",
+      "economy_buy": "-16.1%",
+      "wealth": "\u2605\u2605\u2605 (Flourishing)",
+      "conflict": "2 (Unruly)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "LastEagle420",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LastEagle420"
     },
     {
       "page": "HUB2-C-137 The Rickest",

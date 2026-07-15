@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T08:31:31.308210+00:00",
+    "generated_at": "2026-07-15T08:40:05.811040+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1057,
+    "count": 1063,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -901,6 +901,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/BlackCatLair"
     },
     {
+      "page": "Ajim 31/O1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ajim_31/O1",
+      "name": "Ajim 31/O1",
+      "body_type": "Planet",
+      "image_name": "ajim_31-o1.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/ajim_31-o1.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "505209555D30",
+      "description": "Overgrown Planet",
+      "biome": "Lush",
+      "weather": "Humid",
+      "sky_color": "Green",
+      "grass_color": "Orange",
+      "sentinel": "Ever-present",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tjawsome7305"
+    },
+    {
       "page": "Akata 74/Y6",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Akata_74/Y6",
       "name": "Akata 74/Y6",
@@ -1239,6 +1259,26 @@
       "discovered_by": "",
       "discoverer_page": "Cheddarz",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cheddarz"
+    },
+    {
+      "page": "Amanshak",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Amanshak",
+      "name": "Amanshak",
+      "body_type": "Planet",
+      "image_name": "amanshak.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/amanshak.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "605209555D30",
+      "description": "Murky Planet",
+      "biome": "Marsh",
+      "weather": "Muggy Haze",
+      "sky_color": "Green",
+      "grass_color": "Brown",
+      "sentinel": "Limited",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tjawsome7305"
     },
     {
       "page": "Amin IX",
@@ -4681,6 +4721,26 @@
       "discoverer_url": ""
     },
     {
+      "page": "Eidona VIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Eidona_VIII",
+      "name": "Eidona VIII",
+      "body_type": "Planet",
+      "image_name": "eidona_viii.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/eidona_viii.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "405209555D30",
+      "description": "Hiemal Planet",
+      "biome": "Frozen",
+      "weather": "Deep Freeze",
+      "sky_color": "Blue",
+      "grass_color": "Blue",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tjawsome7305"
+    },
+    {
       "page": "Eileywo",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Eileywo",
       "name": "Eileywo",
@@ -7599,6 +7659,26 @@
       "discovered_by": "",
       "discoverer_page": "turtle_murda",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/turtle_murda"
+    },
+    {
+      "page": "Howayne",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Howayne",
+      "name": "Howayne",
+      "body_type": "Moon",
+      "image_name": "howayne_v.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/howayne_v.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "305209555D30",
+      "description": "Boiling Moon",
+      "biome": "Scorched",
+      "weather": "Sweltering",
+      "sky_color": "Orange",
+      "grass_color": "Yellow",
+      "sentinel": "Ever-present",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "Pineapple3211",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "Howdenib Rika",
@@ -14141,6 +14221,26 @@
       "discoverer_url": ""
     },
     {
+      "page": "Omnentei Ises",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Omnentei_Ises",
+      "name": "Omnentei Ises",
+      "body_type": "Planet",
+      "image_name": "omnentei_ises.landscape.night.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/omnentei_ises.landscape.night.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "105209555D30",
+      "description": "Planet of Light",
+      "biome": "Exotic",
+      "weather": "Anomalous",
+      "sky_color": "Yellow",
+      "grass_color": "Red",
+      "sentinel": "Spread Thin",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "tjawsome7305",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tjawsome7305"
+    },
+    {
       "page": "Omyar",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Omyar",
       "name": "Omyar",
@@ -19119,6 +19219,26 @@
       "discovered_by": "SKUNX",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Ubizoo",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ubizoo",
+      "name": "Ubizoo",
+      "body_type": "Planet",
+      "image_name": "EH11-1AB-UBizoo-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3e/EH11-1AB-UBizoo-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "11AB0A555D30",
+      "description": "Frozen",
+      "biome": "Frozen",
+      "weather": "Howling Blizzards",
+      "sky_color": "Blue",
+      "grass_color": "White",
+      "sentinel": "Minimal",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ucasest Delta",
