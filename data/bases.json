@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T08:39:46.235164+00:00",
+    "generated_at": "2026-07-16T08:37:53.438043+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
     "count": 1662,
@@ -7258,7 +7258,7 @@
       "builder_link": "G'fudi",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi",
       "game_release": "Xeno Arena",
-      "type": "Residential",
+      "type": "Immersive",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "5065CE588C1D"
@@ -21574,6 +21574,21 @@
       "glyphs": "501BF9557C30"
     },
     {
+      "page": "The Icepup's Hut",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Icepup%27s_Hut",
+      "name": "The Icepup's Hut",
+      "image_name": "Icepup's Hut outside view.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/64/Icepup%27s_Hut_outside_view.png",
+      "builder": "WheelerPup",
+      "builder_link": "WheelerPup",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/WheelerPup",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "5065CE588C1D"
+    },
+    {
       "page": "The Inception Base",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Inception_Base",
       "name": "The Inception Base",
@@ -22967,21 +22982,6 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "501BF9557C30"
-    },
-    {
-      "page": "Tristar Trading Post 20-22",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Tristar_Trading_Post_20-22",
-      "name": "Tristar Trading Post 20-22",
-      "image_name": "TristarTradingPost-Wide.jpg",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/57/TristarTradingPost-Wide.jpg",
-      "builder": "",
-      "builder_link": "OhDraw",
-      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw",
-      "game_release": "Xeno Arena",
-      "type": "Activity",
-      "galaxy": "Eissentam",
-      "civilization": "Galactic Hub Eissentam",
-      "glyphs": "102208555D30"
     },
     {
       "page": "Trotter's Independent Traders",

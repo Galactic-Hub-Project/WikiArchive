@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T08:40:05.811040+00:00",
+    "generated_at": "2026-07-16T08:38:09.063212+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1063,
+    "count": 1064,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -15479,6 +15479,26 @@
       "discovered_by": "",
       "discoverer_page": "ProArion",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ProArion"
+    },
+    {
+      "page": "Qilialil",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Qilialil",
+      "name": "Qilialil",
+      "body_type": "Planet",
+      "image_name": "EH11-1AB-Quilialil-LS-Day.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/24/EH11-1AB-Quilialil-LS-Day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "21AB0A555D30",
+      "description": "Lifeless",
+      "biome": "Dead",
+      "weather": "Absent",
+      "sky_color": "starfield",
+      "grass_color": "none",
+      "sentinel": "Few",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Quantal Quetzal",
