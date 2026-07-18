@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T08:32:40.879747+00:00",
+    "generated_at": "2026-07-18T08:13:18.680625+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 682,
+    "count": 683,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -13745,6 +13745,33 @@
       "discovered_by": "Rrrahh-General",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB6-6E Zenmeya",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB6-6E_Zenmeya",
+      "name": "HUB6-6E Zenmeya",
+      "image_name": "HUB6-6E-Zenmeya-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/99/HUB6-6E-Zenmeya-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Fujial Void",
+      "stars": "2",
+      "planets": "5",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "F5p",
+      "glyphs": "106E09557D30",
+      "water": "Yes",
+      "dissonant": "No",
+      "faction": "Vy'keen",
+      "economy": "Mercantile",
+      "economy_sell": "62.4%",
+      "economy_buy": "-12.1%",
+      "wealth": "\u2605\u2605 (Adequate)",
+      "conflict": "2 (Testy)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB6-82 Edogya VIII",

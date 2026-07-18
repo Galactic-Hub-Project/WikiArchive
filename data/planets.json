@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T08:32:22.512491+00:00",
+    "generated_at": "2026-07-18T08:13:00.124089+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1064,
+    "count": 1065,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -17057,6 +17057,26 @@
       "sentinel": "Enforcing",
       "civilization": "Galactic Hub Project",
       "discovered_by": "7101334",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
+      "page": "Sarabin Tau",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sarabin_Tau",
+      "name": "Sarabin Tau",
+      "body_type": "Moon",
+      "image_name": "No Man_s Sky 7_16_2026 11_40_45 PM.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/No%20Man_s%20Sky%207_16_2026%2011_40_45%20PM.png",
+      "galaxy": "Calypso",
+      "glyphs": "4400F9556C30",
+      "description": "Paradise",
+      "biome": "Lush",
+      "weather": "",
+      "sky_color": "Blue",
+      "grass_color": "Green",
+      "sentinel": "Low",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "Jepordy3",
       "discoverer_page": "",
       "discoverer_url": ""
     },
