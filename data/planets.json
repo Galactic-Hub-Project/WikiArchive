@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T08:13:00.124089+00:00",
+    "generated_at": "2026-07-19T08:37:03.874260+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1065,
@@ -15429,8 +15429,8 @@
       "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/Puhippe_XII.jpg",
       "galaxy": "Euclid",
       "glyphs": "1079D058AC1D",
-      "description": "",
-      "biome": "Barren",
+      "description": "Sharded",
+      "biome": "Exotic",
       "weather": "Thirsty Clouds",
       "sky_color": "",
       "grass_color": "",
