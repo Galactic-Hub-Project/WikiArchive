@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T09:37:34.625994+00:00",
+    "generated_at": "2026-07-21T08:49:07.126262+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1210,
+    "count": 1211,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -15730,6 +15730,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "The Pillar of the Stars",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Pillar_of_the_Stars",
+      "name": "The Pillar of the Stars",
+      "image_name": "Screenshot 2026-07-20 153330.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/32/Screenshot_2026-07-20_153330.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "13EBCF588C1D",
+      "discovered_by": "",
+      "discoverer_page": "Nyeks",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
     },
     {
       "page": "The Pride of the Vy'keen",
