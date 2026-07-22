@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T08:49:07.126262+00:00",
+    "generated_at": "2026-07-22T08:48:06.848897+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1211,
+    "count": 1214,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -354,6 +354,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Aeron-\u03bc HUB27-41C",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Aeron-%CE%BC_HUB27-41C",
+      "name": "Aeron-\u03bc HUB27-41C",
+      "image_name": "Aeron-\u03bc HUB27-41C.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7c/Aeron-%CE%BC_HUB27-41C.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "241CCE588C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Aetskazovs AF4",
@@ -3778,6 +3794,22 @@
       "discovered_by": "",
       "discoverer_page": "MPArcturus",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/MPArcturus"
+    },
+    {
+      "page": "Emerubbare VB4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Emerubbare_VB4",
+      "name": "Emerubbare VB4",
+      "image_name": "EmerubbareVB4-PortVentralSil.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/62/EmerubbareVB4-PortVentralSil.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B40A557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Emurak of Death",
@@ -7794,6 +7826,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Kedameus QY2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kedameus_QY2",
+      "name": "Kedameus QY2",
+      "image_name": "KedameusQY2-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/07/KedameusQY2-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B40A557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Kehara Enforcer II",
@@ -14404,8 +14452,8 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
-      "page": "The Daughter of Abstraction",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Daughter_of_Abstraction",
+      "page": "The Daughter of Abstraction (HUB12-B Toyame-Yatun I)",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Daughter_of_Abstraction_(HUB12-B_Toyame-Yatun_I)",
       "name": "The Daughter of Abstraction",
       "image_name": "TheDaughterOfAbstractionMain.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/40/TheDaughterOfAbstractionMain.jpg",

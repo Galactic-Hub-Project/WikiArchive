@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T08:49:59.052104+00:00",
+    "generated_at": "2026-07-22T08:48:55.268159+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 685,
+    "count": 686,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4349,6 +4349,33 @@
       "discovered_by": "",
       "discoverer_page": "Ncnxx",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Ncnxx"
+    },
+    {
+      "page": "HUB14-B4 Kamenkut",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB14-B4_Kamenkut",
+      "name": "HUB14-B4 Kamenkut",
+      "image_name": "HUB-14-B4-Kamenkut-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/99/HUB-14-B4-Kamenkut-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Kamyciro Boundary",
+      "stars": "1",
+      "planets": "4",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "F4",
+      "glyphs": "10B40A557D31",
+      "water": "Yes",
+      "dissonant": "No",
+      "faction": "Gek",
+      "economy": "Technology",
+      "economy_sell": "%",
+      "economy_buy": "%",
+      "wealth": "\u2605\u2605\u2605 (Affluent)",
+      "conflict": "3 (Lawless)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB14-CA Minding",
@@ -15178,9 +15205,9 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/NMSGalacticHub"
     },
     {
-      "page": "HUB9-410 Eluskr Ayryin",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB9-410_Eluskr_Ayryin",
-      "name": "HUB9-410 Eluskr Ayryin",
+      "page": "HUB9-410 Eluskr-Ayryin",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB9-410_Eluskr-Ayryin",
+      "name": "HUB9-410 Eluskr-Ayryin",
       "image_name": "eluskr_ayryin.space.jpg",
       "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/eluskr_ayryin.space.jpg",
       "galaxy": "Eissentam",
