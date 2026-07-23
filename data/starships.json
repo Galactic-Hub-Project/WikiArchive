@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T08:48:06.848897+00:00",
+    "generated_at": "2026-07-23T08:47:37.745099+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
     "count": 1214,
@@ -14356,9 +14356,9 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Daidact"
     },
     {
-      "page": "The Claws of the Moon (shuttle)",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Claws_of_the_Moon_(shuttle)",
-      "name": "The Claws of the Moon (shuttle)",
+      "page": "The Claws of the Moon (HUB20-198 Imuscar)",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Claws_of_the_Moon_(HUB20-198_Imuscar)",
+      "name": "The Claws of the Moon (HUB20-198 Imuscar)",
       "image_name": "TheClawsOfTheMoon-Infobox.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a1/TheClawsOfTheMoon-Infobox.jpg",
       "game_release": "Xeno Arena",
