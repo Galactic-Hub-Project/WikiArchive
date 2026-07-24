@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T08:47:37.745099+00:00",
+    "generated_at": "2026-07-24T08:45:55.727281+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1214,
+    "count": 1216,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -13316,6 +13316,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ApexFatality93"
     },
     {
+      "page": "Speedy End XZ6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Speedy_End_XZ6",
+      "name": "Speedy End XZ6",
+      "image_name": "SpeedyEndXZ6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5a/SpeedyEndXZ6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Speedy Mistress QV4",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Speedy_Mistress_QV4",
       "name": "Speedy Mistress QV4",
@@ -18306,6 +18322,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Yopoluninog FM1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Yopoluninog_FM1",
+      "name": "Yopoluninog FM1",
+      "image_name": "YopoluninogFM1-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/35/YopoluninogFM1-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Yorsko XA5",
