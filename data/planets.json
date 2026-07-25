@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T08:46:31.214400+00:00",
+    "generated_at": "2026-07-25T08:27:54.749517+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1066,
+    "count": 1067,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -674,7 +674,7 @@
       "weather": "Parched",
       "sky_color": "Purple",
       "grass_color": "Red",
-      "sentinel": "Isolated",
+      "sentinel": "Sharded from the Atlas",
       "civilization": "Galactic Hub Eissentam",
       "discovered_by": "",
       "discoverer_page": "Anatomyofamind",
@@ -1439,6 +1439,26 @@
       "discovered_by": "",
       "discoverer_page": "arnaudbalo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/arnaudbalo"
+    },
+    {
+      "page": "Anzai 40/T2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Anzai_40/T2",
+      "name": "Anzai 40/T2",
+      "body_type": "Planet",
+      "image_name": "anzai_40t2.landscape.day.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/anzai_40t2.landscape.day.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "409F09555D30",
+      "description": "Fiery Planet",
+      "biome": "Scorched",
+      "weather": "",
+      "sky_color": "Red",
+      "grass_color": "Yellow",
+      "sentinel": "Limited",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "real_clever_name",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/real_clever_name"
     },
     {
       "page": "Aodic",

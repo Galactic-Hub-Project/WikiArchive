@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T08:46:15.323880+00:00",
+    "generated_at": "2026-07-25T08:27:39.159567+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1663,
+    "count": 1664,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -24797,6 +24797,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "0074CF589C1E"
+    },
+    {
+      "page": "YR-LAKESIDE",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/YR-LAKESIDE",
+      "name": "YR-LAKESIDE",
+      "image_name": "baseghub.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/baseghub.png",
+      "builder": "quicheman60",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "Yukuo Fuel Processing",

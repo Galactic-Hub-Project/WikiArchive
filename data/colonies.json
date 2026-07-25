@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T08:46:49.030922+00:00",
+    "generated_at": "2026-07-25T08:28:11.721814+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Colonies",
-    "count": 52,
+    "count": 54,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -37,6 +37,18 @@
       "galaxy": "Euclid",
       "glyphs": "0000CF589C1E",
       "restricted": "Yes",
+      "status": "Active",
+      "civilization": "Galactic Hub Project"
+    },
+    {
+      "page": "Aldafar Directorate",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Aldafar_Directorate",
+      "name": "Aldafar Directorate",
+      "image_name": "Adeptus mecanics.webp",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f5/Adeptus_mecanics.webp",
+      "galaxy": "Euclid",
+      "glyphs": "2169D058AC1D",
+      "restricted": "conditional to non-citizens",
       "status": "Active",
       "civilization": "Galactic Hub Project"
     },
@@ -353,6 +365,18 @@
       "civilization": "Galactic Hub Project"
     },
     {
+      "page": "New Wooperis",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/New_Wooperis",
+      "name": "New Wooperis",
+      "image_name": "Wooperis.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/41/Wooperis.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "13EDCF589C1C",
+      "restricted": "",
+      "status": "Active",
+      "civilization": "Galactic Hub Project"
+    },
+    {
       "page": "New Ziki City",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/New_Ziki_City",
       "name": "New Ziki City",
@@ -584,8 +608,8 @@
       "page": "Triple S Attractions",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Triple_S_Attractions",
       "name": "Triple S Attractions",
-      "image_name": "Xeno Park.png",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/73/Xeno_Park.png",
+      "image_name": "TSA.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/98/TSA.png",
       "galaxy": "Euclid",
       "glyphs": "1083D058AC1E",
       "restricted": "",
