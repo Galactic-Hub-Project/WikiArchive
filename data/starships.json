@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T08:27:20.979393+00:00",
+    "generated_at": "2026-07-26T08:42:09.945958+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1216,
+    "count": 1217,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2159,7 +2159,7 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "60D308555D2F",
-      "discovered_by": "05/19/2025",
+      "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },
@@ -4868,6 +4868,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Flameborn-\u03c9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flameborn-%CF%89",
+      "name": "Flameborn-\u03c9",
+      "image_name": "Flameborn-\u03c9.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9c/Flameborn-%CF%89.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23F8CE588C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Floating Aegis QL1",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Floating_Aegis_QL1",
       "name": "Floating Aegis QL1",
@@ -6233,7 +6249,7 @@
       "name": "Hiraki's Airborne Champion",
       "image_name": "Hiraki-Main.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9a/Hiraki-Main.jpg",
-      "game_release": "Xenoarena",
+      "game_release": "Xeno Arena",
       "type": "Hauler",
       "acquisition": "Authenticated",
       "galaxy": "Eissentam",
@@ -8639,7 +8655,7 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "113008556D2F",
-      "discovered_by": "Tingene",
+      "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },
@@ -9103,7 +9119,7 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "119D08556D2F",
-      "discovered_by": "Tingene",
+      "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },
@@ -15855,7 +15871,7 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "11D708556D2F",
-      "discovered_by": "Tingene",
+      "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },

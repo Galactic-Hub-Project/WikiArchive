@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T08:28:11.721814+00:00",
+    "generated_at": "2026-07-26T08:43:11.742482+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Colonies",
-    "count": 54,
+    "count": 53,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -360,18 +360,6 @@
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7f/NewHiyaCity01.png",
       "galaxy": "Euclid",
       "glyphs": "301ECF58AC1D",
-      "restricted": "",
-      "status": "Active",
-      "civilization": "Galactic Hub Project"
-    },
-    {
-      "page": "New Wooperis",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/New_Wooperis",
-      "name": "New Wooperis",
-      "image_name": "Wooperis.jpg",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/41/Wooperis.jpg",
-      "galaxy": "Euclid",
-      "glyphs": "13EDCF589C1C",
       "restricted": "",
       "status": "Active",
       "civilization": "Galactic Hub Project"
