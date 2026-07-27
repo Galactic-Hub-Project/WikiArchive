@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T08:42:32.252737+00:00",
+    "generated_at": "2026-07-27T10:12:54.558634+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1664,
+    "count": 1665,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -24947,6 +24947,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "0023F9556C30"
+    },
+    {
+      "page": "Zopolhart",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Zopolhart",
+      "name": "Zopolhart",
+      "image_name": "VegnerZopolhartBase.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f0/VegnerZopolhartBase.jpg",
+      "builder": "",
+      "builder_link": "VegnerGALACTIC",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/VegnerGALACTIC",
+      "game_release": "Swarm",
+      "type": "Production",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "\u00c9.\u0161ulum",
