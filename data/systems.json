@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T10:13:27.590856+00:00",
+    "generated_at": "2026-07-28T09:09:39.910257+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 687,
+    "count": 688,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2216,6 +2216,33 @@
       "discovered_by": "",
       "discoverer_page": "MadamepandoraX",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/MadamepandoraX"
+    },
+    {
+      "page": "HUB1-400 Sylistor",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB1-400_Sylistor",
+      "name": "HUB1-400 Sylistor",
+      "image_name": "sylistor_sys_main.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/sylistor_sys_main.png",
+      "galaxy": "Calypso",
+      "region": "Uisaor Spur",
+      "stars": "",
+      "planets": "1",
+      "moons": "5",
+      "color": "Purple",
+      "spectral_class": "Y4p",
+      "glyphs": "3400F9556C30",
+      "water": "Yes",
+      "dissonant": "No",
+      "faction": "Vy'keen Abandoned",
+      "economy": "Data Unavailable",
+      "economy_sell": "59%",
+      "economy_buy": "-29.3%",
+      "wealth": "",
+      "conflict": "Data Unavailable",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "Jepordy3",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "HUB1-412 Uldosu-Nueve",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T10:12:34.745134+00:00",
+    "generated_at": "2026-07-28T09:08:43.216047+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1217,
+    "count": 1218,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2788,6 +2788,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Crimson-\u03c4\u03bd",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-%CF%84%CE%BD",
+      "name": "Crimson-\u03c4\u03bd",
+      "image_name": "Crimson-\u03c4\u03bd.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e7/Crimson-%CF%84%CE%BD.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23EBCE588C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Crimson-\u03c9",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-%CF%89",
       "name": "Crimson-\u03c9",
@@ -3871,7 +3887,7 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "114A08556D2F",
-      "discovered_by": "Tingene",
+      "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T10:12:19.683728+00:00",
+    "generated_at": "2026-07-28T09:08:28.381230+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Creatures",
     "count": 4801,
@@ -63392,7 +63392,7 @@
       "discoverer_page": "ApexFatality93",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ApexFatality93",
       "game_release": "Relics",
-      "feature": "hawk",
+      "feature": "eagle",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
