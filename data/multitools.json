@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T09:14:06.416593+00:00",
+    "generated_at": "2026-07-30T09:07:11.942340+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 378,
+    "count": 379,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4946,6 +4946,22 @@
       "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
+    },
+    {
+      "page": "The Defiance of Lightning OW7-3-0",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Defiance_of_Lightning_OW7-3-0",
+      "name": "The Defiance of Lightning OW7-3-0",
+      "image_name": "TheDefianceOfLightning-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e7/TheDefianceOfLightning-Infobox.jpg",
+      "type": "Pistol",
+      "galaxy": "Eissentam",
+      "glyphs": "31AC0A555D30",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "",
+      "mt_class": "S",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The End of Certainty SN9/I",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T09:14:15.259937+00:00",
+    "generated_at": "2026-07-30T09:07:21.047123+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 690,
+    "count": 691,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -13367,6 +13367,33 @@
       "discovered_by": "Black Cat Lair",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB5-2F Yorozawa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB5-2F_Yorozawa",
+      "name": "HUB5-2F Yorozawa",
+      "image_name": "HUB5-2F-Yorozawa-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/96/HUB5-2F-Yorozawa-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Xejtolew Adjunct",
+      "stars": "nn",
+      "planets": "5",
+      "moons": "1",
+      "color": "Yellow",
+      "spectral_class": "G2p",
+      "glyphs": "102F09557D31",
+      "water": "Yes",
+      "dissonant": "Yes",
+      "faction": "Korvax",
+      "economy": "Alchemical",
+      "economy_sell": "",
+      "economy_buy": "",
+      "wealth": "\u2605\u2605\u2605 (Affluent)",
+      "conflict": "2 (Unstable)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB5-4 Echolon Proxima Superior",

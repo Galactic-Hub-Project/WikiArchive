@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T09:13:41.687541+00:00",
+    "generated_at": "2026-07-30T09:06:46.661824+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1665,
+    "count": 1666,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -20582,6 +20582,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "1079D058AC1D"
+    },
+    {
+      "page": "That 1 guy05\u2019s Immortal Meditation",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/That_1_guy05%E2%80%99s_Immortal_Meditation",
+      "name": "That 1 guy05\u2019s Immortal Meditation",
+      "image_name": "That 1 guy05\u2019s Immortal Meditation 0.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/64/That_1_guy05%E2%80%99s_Immortal_Meditation_0.jpg",
+      "builder": "that_1_guy05",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "5065CE588C1D"
     },
     {
       "page": "Thdakara City Capitol",
