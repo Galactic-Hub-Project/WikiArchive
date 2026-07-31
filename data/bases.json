@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T09:06:46.661824+00:00",
+    "generated_at": "2026-07-31T09:20:43.639295+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1666,
+    "count": 1668,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -9904,6 +9904,21 @@
       "glyphs": "4029F9557C2F"
     },
     {
+      "page": "Horizon Villa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Horizon_Villa",
+      "name": "Horizon Villa",
+      "image_name": "Horizon Villa.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/49/Horizon_Villa.png",
+      "builder": "souufle",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "5074CF589C1E"
+    },
+    {
       "page": "Hotel Lilac",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hotel_Lilac",
       "name": "Hotel Lilac",
@@ -11279,6 +11294,21 @@
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Krulzabujca",
       "game_release": "Xenoarena",
       "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
+    },
+    {
+      "page": "Karbon Station",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Karbon_Station",
+      "name": "Karbon Station",
+      "image_name": "karbonspace.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/karbonspace.png",
+      "builder": "zabujcaoficjalnie",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Combat",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"

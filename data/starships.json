@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T09:06:26.606795+00:00",
+    "generated_at": "2026-07-31T09:20:21.624263+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1250,
+    "count": 1259,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2708,6 +2708,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "CQ7 Annodi",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/CQ7_Annodi",
+      "name": "CQ7 Annodi",
+      "image_name": "GQ7Annodi-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/01/GQ7Annodi-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Crimson-2/BJ7/95O",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-2/BJ7/95O",
       "name": "Crimson-2/BJ7/95O",
@@ -4194,6 +4210,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Ettsuiy CA1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ettsuiy_CA1",
+      "name": "Ettsuiy CA1",
+      "image_name": "EttsuyCA1-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/75/EttsuyCA1-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "EV-1 Aiwakuni",
@@ -8308,6 +8340,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Kubunky QV3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kubunky_QV3",
+      "name": "Kubunky QV3",
+      "image_name": "KubunkyQV3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/67/KubunkyQV3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Kuchi's Regret AZ8",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kuchi%27s_Regret_AZ8",
       "name": "Kuchi's Regret AZ8",
@@ -10690,6 +10738,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Onezaki's Favourite Transporter",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Onezaki%27s_Favourite_Transporter",
+      "name": "Onezaki's Favourite Transporter",
+      "image_name": "OnezakisFavouriteTransporter-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bd/OnezakisFavouriteTransporter-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Onodaita's Shimmering Prospect",
@@ -13140,6 +13204,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Serene Eagle OQ9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Serene_Eagle_OQ9",
+      "name": "Serene Eagle OQ9",
+      "image_name": "SereneEagleOQ9-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e1/SereneEagleOQ9-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Serene Mirain II",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Serene_Mirain_II",
       "name": "Serene Mirain II",
@@ -13970,6 +14050,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "Subameok's Prospect",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Subameok%27s_Prospect",
+      "name": "Subameok's Prospect",
+      "image_name": "SubameoksProspect-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a3/SubameoksProspect-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Suchi's Reckless Surveyor",
@@ -15844,6 +15940,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Marvel of Destruction (HUB16-93 Goboriyam)",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Marvel_of_Destruction_(HUB16-93_Goboriyam)",
+      "name": "The Marvel of Destruction (HUB16-93 Goboriyam)",
+      "image_name": "TheMarvelOfDestruction-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/85/TheMarvelOfDestruction-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Marvel of Freedom",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Marvel_of_Freedom",
       "name": "The Marvel of Freedom",
@@ -16658,6 +16770,22 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "The Son of Flight",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Son_of_Flight",
+      "name": "The Son of Flight",
+      "image_name": "TheSonOfFlight-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/1d/TheSonOfFlight-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Song of Abstraction",
@@ -18146,6 +18274,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Vision of the Gahamaga",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Vision_of_the_Gahamaga",
+      "name": "Vision of the Gahamaga",
+      "image_name": "VisionOfTheGahamaga-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0d/VisionOfTheGahamaga-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Visionary Pillar IB3",
