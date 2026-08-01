@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T09:20:43.639295+00:00",
+    "generated_at": "2026-08-01T08:37:06.067100+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1668,
+    "count": 1669,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -20477,6 +20477,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "1029F9556C30"
+    },
+    {
+      "page": "Temple of the Spider",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Temple_of_the_Spider",
+      "name": "Temple of the Spider",
+      "image_name": "Jul-30@23.11.59.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c1/Jul-30%4023.11.59.png",
+      "builder": "",
+      "builder_link": "GroovyJoe",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/GroovyJoe",
+      "game_release": "Xeno Arena",
+      "type": "Artistic",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1082F9557C30"
     },
     {
       "page": "Temple of Zah-Dor",
