@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T08:37:24.965634+00:00",
+    "generated_at": "2026-08-02T08:40:21.286042+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1067,
+    "count": 1068,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -3079,6 +3079,26 @@
       "discovered_by": "utiliston78",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Cayre XV",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Cayre_XV",
+      "name": "Cayre XV",
+      "body_type": "Planet",
+      "image_name": "Cayre XV cover.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/8d/Cayre_XV_cover.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "1071CE588C1D",
+      "description": "Radioactive Abomination",
+      "biome": "Irradiated",
+      "weather": "Occasional Radiation Outbursts",
+      "sky_color": "Blue",
+      "grass_color": "",
+      "sentinel": "Spread Thin",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Grimmstein",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Grimmstein"
     },
     {
       "page": "Ceann Sigma",

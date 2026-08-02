@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T08:36:44.253541+00:00",
+    "generated_at": "2026-08-02T08:39:40.265826+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1266,
+    "count": 1269,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -5986,6 +5986,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Goriy's Redemption OK3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Goriy%27s_Redemption_OK3",
+      "name": "Goriy's Redemption OK3",
+      "image_name": "GoriysRedemptionOK3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fe/GoriysRedemptionOK3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "20F008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "GR3 Ikomag",
@@ -15588,6 +15604,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "The Hammer of Jeopardy",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Hammer_of_Jeopardy",
+      "name": "The Hammer of Jeopardy",
+      "image_name": "TheHammerOfJeopardy-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/82/TheHammerOfJeopardy-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B40A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Hammer of Perfection",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Hammer_of_Perfection",
       "name": "The Hammer of Perfection",
@@ -17538,6 +17570,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Toriok's Voyage",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Toriok%27s_Voyage",
+      "name": "Toriok's Voyage",
+      "image_name": "TorioksVoyage-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9a/TorioksVoyage-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "23F309557D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Tosukura of the Sun",
