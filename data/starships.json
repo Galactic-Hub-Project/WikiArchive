@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T08:39:40.265826+00:00",
+    "generated_at": "2026-08-03T10:09:05.469291+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1269,
+    "count": 1272,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -943,6 +943,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "314008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Anvil of the Eokamag",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Anvil_of_the_Eokamag",
+      "name": "Anvil of the Eokamag",
+      "image_name": "AnvilOfTheEokamag-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b9/AnvilOfTheEokamag-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10B90A557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -11668,6 +11684,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "Radiant Son RA1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Radiant_Son_RA1",
+      "name": "Radiant Son RA1",
+      "image_name": "RadiantSonRA1-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/6a/RadiantSonRA1-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10F20A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Radiant Victory ZE8",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Radiant_Victory_ZE8",
       "name": "Radiant Victory ZE8",
@@ -15010,6 +15042,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "The Creeping Hulyov",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Creeping_Hulyov",
+      "name": "The Creeping Hulyov",
+      "image_name": "TheCreepingHulyov-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f6/TheCreepingHulyov-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10F20A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Dance of Fire (HUB1-189 The Forgotten Realms)",
