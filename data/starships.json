@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T10:09:05.469291+00:00",
+    "generated_at": "2026-08-04T09:12:44.383431+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1272,
+    "count": 1273,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -9945,7 +9945,7 @@
       "name": "Neyagaw's Geometric architect",
       "image_name": "Neyagaw'sGeometricArchitect.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7f/Neyagaw%27sGeometricArchitect.jpg",
-      "game_release": "Swarm",
+      "game_release": "Xeno Arena",
       "type": "Hauler",
       "acquisition": "Authenticated",
       "galaxy": "Euclid",
@@ -12338,6 +12338,22 @@
       "discovered_by": "",
       "discoverer_page": "Italicinterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Italicinterloper"
+    },
+    {
+      "page": "Reforged-\u03c1\u03c0",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reforged-%CF%81%CF%80",
+      "name": "Reforged-\u03c1\u03c0",
+      "image_name": "Reforged-\u03c1\u03c0.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/ab/Reforged-%CF%81%CF%80.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "23FED058AC1E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Reforged-\u03c6",
@@ -14969,7 +14985,7 @@
       "name": "The Claws of the Moon",
       "image_name": "CotM Front.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/16/CotM_Front.jpg",
-      "game_release": "Relics",
+      "game_release": "Xeno Arena",
       "type": "Fighter",
       "acquisition": "Authenticated",
       "galaxy": "Euclid",

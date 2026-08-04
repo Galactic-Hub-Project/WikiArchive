@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T10:08:48.157245+00:00",
+    "generated_at": "2026-08-04T09:12:27.118847+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Creatures",
     "count": 4801,
@@ -46890,7 +46890,7 @@
       "discovered_by": "that_1_guy05",
       "discoverer_page": "",
       "discoverer_url": "",
-      "game_release": "Xenoarena",
+      "game_release": "Xeno Arena",
       "feature": "",
       "combat_effectiveness": "",
       "agility": "",
@@ -115206,7 +115206,7 @@
       "coordinates": "042F:0078:0D56:0123",
       "height": "6.2 - 6.0",
       "weight": "268.0 - 257.1",
-      "genus": "Stucturae",
+      "genus": "Structurae",
       "worm_class": "",
       "worm_depth": "",
       "worm_stomach": "",
