@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T09:12:44.383431+00:00",
+    "generated_at": "2026-08-05T09:09:43.218427+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1273,
+    "count": 1274,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -8834,6 +8834,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Madan Voyager XIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Madan_Voyager_XIII",
+      "name": "Madan Voyager XIII",
+      "image_name": "MadanVoyagerXIII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0b/MadanVoyagerXIII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "102F09557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Magnificent Ketag XI",

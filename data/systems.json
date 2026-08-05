@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T09:13:43.583385+00:00",
+    "generated_at": "2026-08-05T09:11:05.057318+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
     "count": 694,
@@ -13430,7 +13430,7 @@
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/96/HUB5-2F-Yorozawa-Infobox.jpg",
       "galaxy": "Eissentam",
       "region": "Xejtolew Adjunct",
-      "stars": "nn",
+      "stars": "1",
       "planets": "5",
       "moons": "1",
       "color": "Yellow",

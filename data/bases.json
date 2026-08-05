@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T09:13:06.134955+00:00",
+    "generated_at": "2026-08-05T09:10:10.568642+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1669,
+    "count": 1672,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -7232,6 +7232,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "2186F8556C30"
+    },
+    {
+      "page": "G'fudi's Calypso Survey Station",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi%27s_Calypso_Survey_Station",
+      "name": "G'fudi's Calypso Survey Station",
+      "image_name": "calypso_survey_base.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/calypso_survey_base.png",
+      "builder": "",
+      "builder_link": "G'fudi",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/G%27fudi",
+      "game_release": "Xeno Arena",
+      "type": "Immersive",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "4400F9556C30"
     },
     {
       "page": "G'fudi's Research Station",
@@ -17959,6 +17974,21 @@
       "glyphs": "501BF9557C30"
     },
     {
+      "page": "S.S. Riviera - Lofticries",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/S.S._Riviera_-_Lofticries",
+      "name": "S.S. Riviera - Lofticries",
+      "image_name": "SSRiviera-Lofticries.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fa/SSRiviera-Lofticries.jpg",
+      "builder": "hugaduck_",
+      "builder_link": "Hugaduck",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Hugaduck",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "41B7D0589C1E"
+    },
+    {
       "page": "Sa Bassa",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sa_Bassa",
       "name": "Sa Bassa",
@@ -22427,6 +22457,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "602CFA556C30"
+    },
+    {
+      "page": "The Weary Star Inn",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Weary_Star_Inn",
+      "name": "The Weary Star Inn",
+      "image_name": "weary_star_inn.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/weary_star_inn.png",
+      "builder": "",
+      "builder_link": "Eonzilla6",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Eonzilla6",
+      "game_release": "Xenoarena",
+      "type": "Immersive",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "The Whispering Den",
