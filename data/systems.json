@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T09:11:05.057318+00:00",
+    "generated_at": "2026-08-06T09:10:34.724597+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
     "count": 694,
@@ -7843,12 +7843,12 @@
       "region": "Sea of Nadsky",
       "stars": "1",
       "planets": "5",
-      "moons": "0",
+      "moons": "",
       "color": "Yellow",
       "spectral_class": "F4p",
       "glyphs": "100C09555D30",
       "water": "Yes",
-      "dissonant": "Yes",
+      "dissonant": "",
       "faction": "Korvax",
       "economy": "Mercantile",
       "economy_sell": "59.1%",
