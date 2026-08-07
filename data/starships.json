@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T09:09:43.590187+00:00",
+    "generated_at": "2026-08-07T07:45:40.078250+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1284,
+    "count": 1292,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -210,6 +210,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Abyssal Zuminam XVII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Abyssal_Zuminam_XVII",
+      "name": "Abyssal Zuminam XVII",
+      "image_name": "AbyssalZuminamXVII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/57/AbyssalZuminamXVII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "AC3 Gamisa",
@@ -1588,6 +1604,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "Beppus of Destruction",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Beppus_of_Destruction",
+      "name": "Beppus of Destruction",
+      "image_name": "BeppusOfDestruction-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/50/BeppusOfDestruction-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "BG4 Dorio",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/BG4_Dorio",
       "name": "BG4 Dorio",
@@ -1711,6 +1743,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "50DB0A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Blazing Asoehad IX",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blazing_Asoehad_IX",
+      "name": "Blazing Asoehad IX",
+      "image_name": "BlazingAsoehadIX-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b8/BlazingAsoehadIX-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -5460,6 +5508,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Frozen Claws VH2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Frozen_Claws_VH2",
+      "name": "Frozen Claws VH2",
+      "image_name": "FrozenClawsVH2-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f3/FrozenClawsVH2-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Frozen Hammer CK4",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Frozen_Hammer_CK4",
       "name": "Frozen Hammer CK4",
@@ -5583,6 +5647,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "114709555D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Gajorde's Dream",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gajorde%27s_Dream",
+      "name": "Gajorde's Dream",
+      "image_name": "GajordesDream-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d2/GajordesDream-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -11215,6 +11295,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10EE08555D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "PI5 Ibetsu",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/PI5_Ibetsu",
+      "name": "PI5 Ibetsu",
+      "image_name": "PI5Ibetsu-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/ba/PI5Ibetsu-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -18548,6 +18644,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/HayleyGeek"
     },
     {
+      "page": "UY2 Buyamag",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/UY2_Buyamag",
+      "name": "UY2 Buyamag",
+      "image_name": "UY2Buyamag-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a7/UY2Buyamag-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Uzawa's Halcyon Pioneer",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Uzawa%27s_Halcyon_Pioneer",
       "name": "Uzawa's Halcyon Pioneer",
@@ -18754,6 +18866,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Voice of the Obihi",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Voice_of_the_Obihi",
+      "name": "Voice of the Obihi",
+      "image_name": "VoiceOfTheObihi-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/09/VoiceOfTheObihi-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "31B908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "VR6 Tottoni",

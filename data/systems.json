@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T09:10:34.724597+00:00",
+    "generated_at": "2026-08-07T07:46:39.668215+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 694,
+    "count": 695,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -12608,9 +12608,9 @@
       "wealth": "\u2605\u2605\u2605 (Booming)",
       "conflict": "2 (Fractious)",
       "civilization": "Galactic Hub Eissentam",
-      "discovered_by": "",
-      "discoverer_page": "OhDraw",
-      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+      "discovered_by": "Remi",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "HUB4-30 Gujoku-Ku",
@@ -13637,6 +13637,33 @@
       "discovered_by": "[[User:Rabidencounters|Manager Consoomer]]",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB5-A5 Suitahiki",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB5-A5_Suitahiki",
+      "name": "HUB5-A5 Suitahiki",
+      "image_name": "HUB5-A5-Suitakahi-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4c/HUB5-A5-Suitakahi-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Xejtolew Adjunct",
+      "stars": "1",
+      "planets": "4",
+      "moons": "0",
+      "color": "Yellow",
+      "spectral_class": "F3p",
+      "glyphs": "10A509557D31",
+      "water": "Yes",
+      "dissonant": "",
+      "faction": "Vy'keen",
+      "economy": "Mining",
+      "economy_sell": "54.2%",
+      "economy_buy": "-10.8%",
+      "wealth": "\u2605\u2605\u2605 (Opulent)",
+      "conflict": "3 (Formidable)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB5-A8 Huniser",
