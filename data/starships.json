@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T07:45:40.078250+00:00",
+    "generated_at": "2026-08-08T07:19:17.752190+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1292,
+    "count": 1303,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3108,6 +3108,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "Crystal Pride XL6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crystal_Pride_XL6",
+      "name": "Crystal Pride XL6",
+      "image_name": "CrystalPrideXL6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a1/CrystalPrideXL6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "20F008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "CS-3 Rotoshib",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/CS-3_Rotoshib",
       "name": "CS-3 Rotoshib",
@@ -5396,6 +5412,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
     },
     {
+      "page": "Forge of the Kokubar",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Forge_of_the_Kokubar",
+      "name": "Forge of the Kokubar",
+      "image_name": "ForgeOfTheKokubar-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/73/ForgeOfTheKokubar-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11F808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "FQ8 Aitok",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/FQ8_Aitok",
       "name": "FQ8 Aitok",
@@ -6114,6 +6146,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Goriokak's Frozen Triumph",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Goriokak%27s_Frozen_Triumph",
+      "name": "Goriokak's Frozen Triumph",
+      "image_name": "GorioraksFrozenTriumph-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/70/GorioraksFrozenTriumph-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100408557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Goriy's Redemption OK3",
@@ -9956,6 +10004,22 @@
       "discoverer_url": ""
     },
     {
+      "page": "Nayevk RG6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nayevk_RG6",
+      "name": "Nayevk RG6",
+      "image_name": "NayvekRG6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/17/NayvekRG6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "20F008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Nayosuk of Destruction",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nayosuk_of_Destruction",
       "name": "Nayosuk of Destruction",
@@ -10948,6 +11012,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "Onakamam's Winged Hand",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Onakamam%27s_Winged_Hand",
+      "name": "Onakamam's Winged Hand",
+      "image_name": "OnakamamsWingedHand-Deck.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/52/OnakamamsWingedHand-Deck.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100408557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Onbetsur's Ultimate Decree",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Onbetsur%27s_Ultimate_Decree",
       "name": "Onbetsur's Ultimate Decree",
@@ -11026,6 +11106,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "Oranoya Examiner XIX",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Oranoya_Examiner_XIX",
+      "name": "Oranoya Examiner XIX",
+      "image_name": "OranoyaExaminerXIX-Deck.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/68/OranoyaExaminerXIX-Deck.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100408557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Orskyvin QP3",
@@ -11490,6 +11586,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "Prophecy of the Akyushun",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Prophecy_of_the_Akyushun",
+      "name": "Prophecy of the Akyushun",
+      "image_name": "ProphecyOfTheAkyushun-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0d/ProphecyOfTheAkyushun-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11F808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Prophecy of the Kudamak",
@@ -14692,6 +14804,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "SV4 Makika",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/SV4_Makika",
+      "name": "SV4 Makika",
+      "image_name": "SV4Makika-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/af/SV4Makika-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "20F008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Swift Prophecy FG1",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Swift_Prophecy_FG1",
       "name": "Swift Prophecy FG1",
@@ -16516,6 +16644,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Mistress of Devastation",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Mistress_of_Devastation",
+      "name": "The Mistress of Devastation",
+      "image_name": "TheMistressOfDevastation-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/75/TheMistressOfDevastation-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11F808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Mistress of Infinity",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Mistress_of_Infinity",
       "name": "The Mistress of Infinity",
@@ -17879,8 +18023,8 @@
       "page": "Togaw's Second Explorer",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Togaw%27s_Second_Explorer",
       "name": "Togaw's Second Explorer",
-      "image_name": "Togaws2ndExplorer-StarboardSilhouette.jpg",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7b/Togaws2ndExplorer-StarboardSilhouette.jpg",
+      "image_name": "TogawsSecondExplorer-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/66/TogawsSecondExplorer-Infobox.jpg",
       "game_release": "Xeno Arena",
       "type": "Exotic",
       "acquisition": "Authenticated",
@@ -18271,6 +18415,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "118808557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Ultimate Victory TA6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ultimate_Victory_TA6",
+      "name": "Ultimate Victory TA6",
+      "image_name": "UltimateVictoryTA6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f4/UltimateVictoryTA6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100408557D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -18991,6 +19151,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10E308555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Wachik PH6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Wachik_PH6",
+      "name": "Wachik PH6",
+      "image_name": "WachikPH6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/8c/WachikPH6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100408557D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

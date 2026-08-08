@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T07:46:20.720073+00:00",
+    "generated_at": "2026-08-08T07:19:58.916557+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1068,
@@ -1319,6 +1319,26 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "Amundsen",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Amundsen",
+      "name": "Amundsen",
+      "body_type": "Planet",
+      "image_name": "hatsu_44-g4.landscape.coastalsunrise.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/hatsu_44-g4.landscape.coastalsunrise.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "20B8CE589C1F",
+      "description": "Arctic Planet",
+      "biome": "Frozen",
+      "weather": "Snowy",
+      "sky_color": "Blue",
+      "grass_color": "Blue",
+      "sentinel": "Infrequent",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Anatomyofamind",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Andab 31/T6",
@@ -6979,26 +6999,6 @@
       "discovered_by": "",
       "discoverer_page": "anatomyofamind",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/anatomyofamind"
-    },
-    {
-      "page": "Hatsu 44/G4",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hatsu_44/G4",
-      "name": "Hatsu 44/G4",
-      "body_type": "Planet",
-      "image_name": "hatsu_44-g4.landscape.coastalsunrise.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/hatsu_44-g4.landscape.coastalsunrise.jpg",
-      "galaxy": "Euclid",
-      "glyphs": "20B8CE589C1F",
-      "description": "Arctic Planet",
-      "biome": "Frozen",
-      "weather": "Snowy",
-      "sky_color": "Blue",
-      "grass_color": "Blue",
-      "sentinel": "Infrequent",
-      "civilization": "Galactic Hub Project",
-      "discovered_by": "",
-      "discoverer_page": "Anatomyofamind",
-      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Anatomyofamind"
     },
     {
       "page": "Havenly",
