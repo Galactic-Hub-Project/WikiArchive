@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:19:40.031178+00:00",
+    "generated_at": "2026-08-09T07:20:31.698713+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1672,
+    "count": 1673,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -11672,6 +11672,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "0065CE58AC1F"
+    },
+    {
+      "page": "Lagras",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Lagras",
+      "name": "Lagras",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
+      "builder": "Knickles_33",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Activity/Artistic/Business/Combat/Immersive/Production/Residential",
+      "galaxy": "Euclid",
+      "civilization": "",
+      "glyphs": ""
     },
     {
       "page": "Lake Adtown Lodge",
