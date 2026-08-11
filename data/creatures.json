@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T08:08:08.092490+00:00",
+    "generated_at": "2026-08-11T07:40:58.945495+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Creatures",
     "count": 4804,
@@ -14904,7 +14904,7 @@
       "discoverer_page": "RafaelM.",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/RafaelM.",
       "game_release": "Remnant",
-      "feature": "",
+      "feature": "eagle",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -37843,7 +37843,7 @@
       "discoverer_page": "Randomner",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner",
       "game_release": "Voyagers",
-      "feature": "",
+      "feature": "blindram",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -41236,7 +41236,7 @@
       "discoverer_page": "Ascenchon",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Ascenchon",
       "game_release": "Aquarius",
-      "feature": "",
+      "feature": "eagle",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -43382,7 +43382,7 @@
       "discoverer_page": "mathfreak2",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/mathfreak2",
       "game_release": "Waypoint",
-      "feature": "",
+      "feature": "bigbeak",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -64407,7 +64407,7 @@
       "discoverer_page": "Ascenchon",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Ascenchon",
       "game_release": "Aquarius",
-      "feature": "",
+      "feature": "dragon",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -91725,7 +91725,7 @@
       "discoverer_page": "Ascenchon",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Ascenchon",
       "game_release": "Aquarius",
-      "feature": "",
+      "feature": "bigbeak",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -96481,7 +96481,7 @@
       "discoverer_page": "Ascenchon",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Ascenchon",
       "game_release": "Aquarius",
-      "feature": "",
+      "feature": "blindram",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
@@ -122726,7 +122726,7 @@
       "discoverer_page": "Dovahren",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dovahren",
       "game_release": "Voyagers",
-      "feature": "",
+      "feature": "dragon",
       "combat_effectiveness": "",
       "agility": "",
       "health": ""

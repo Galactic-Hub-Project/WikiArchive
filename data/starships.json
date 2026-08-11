@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T08:08:24.621115+00:00",
+    "generated_at": "2026-08-11T07:41:19.534100+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1328,
+    "count": 1337,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2324,6 +2324,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Mortaine"
     },
     {
+      "page": "Breath of the Inowan",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Breath_of_the_Inowan",
+      "name": "Breath of the Inowan",
+      "image_name": "BreathOfTheInowan-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/dc/BreathOfTheInowan-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Breath of the Musak",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Breath_of_the_Musak",
       "name": "Breath of the Musak",
@@ -4335,6 +4351,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10C308555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Ennuma's Coup",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ennuma%27s_Coup",
+      "name": "Ennuma's Coup",
+      "image_name": "EnnumasCoup-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/40/EnnumasCoup-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -8180,6 +8212,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cieng"
     },
     {
+      "page": "Iwakasu of Perfection",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Iwakasu_of_Perfection",
+      "name": "Iwakasu of Perfection",
+      "image_name": "IwakasuOfPerfection-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f1/IwakasuOfPerfection-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Iyskyivin FQ4",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Iyskyivin_FQ4",
       "name": "Iyskyivin FQ4",
@@ -10130,6 +10178,22 @@
       "discovered_by": "[[User:ncnxx|ncn]]",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "MV1 Yoakega",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/MV1_Yoakega",
+      "name": "MV1 Yoakega",
+      "image_name": "MV1Yoakega-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/dd/MV1Yoakega-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "MY4 Kuokaw",
@@ -13444,6 +13508,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "Ruthless Otano III",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ruthless_Otano_III",
+      "name": "Ruthless Otano III",
+      "image_name": "RuthlessOtanoIII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c9/RuthlessOtanoIII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Ruthless Reflection TR7",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ruthless_Reflection_TR7",
       "name": "Ruthless Reflection TR7",
@@ -13935,6 +14015,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Sendo of the Moon",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sendo_of_the_Moon",
+      "name": "Sendo of the Moon",
+      "image_name": "SendoOfTheMoon-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/cd/SendoOfTheMoon-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -14498,6 +14594,22 @@
       "discovered_by": "",
       "discoverer_page": "ApexFatality93",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ApexFatality93"
+    },
+    {
+      "page": "Speedy Departure BR3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Speedy_Departure_BR3",
+      "name": "Speedy Departure BR3",
+      "image_name": "SpeedyDepartureBR3-infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/22/SpeedyDepartureBR3-infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Speedy End XZ6",
@@ -16564,6 +16676,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "The Heartless Lilovse",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Heartless_Lilovse",
+      "name": "The Heartless Lilovse",
+      "image_name": "TheHeartlessLilovse-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7d/TheHeartlessLilovse-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Heartless Oufims",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Heartless_Oufims",
       "name": "The Heartless Oufims",
@@ -17199,6 +17327,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Only Isiunni",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Only_Isiunni",
+      "name": "The Only Isiunni",
+      "image_name": "TheOnlyIsiunni-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ec/TheOnlyIsiunni-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Living Ship",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "21D308557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T08:09:02.041401+00:00",
+    "generated_at": "2026-08-11T07:41:59.160765+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1068,
+    "count": 1069,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -5799,6 +5799,26 @@
       "discovered_by": "",
       "discoverer_page": "Dovahren",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dovahren"
+    },
+    {
+      "page": "Fazel",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Fazel",
+      "name": "Fazel",
+      "body_type": "Planet",
+      "image_name": "19fee86e76676-screenshotUrl.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bb/19fee86e76676-screenshotUrl.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "2036CE588C1E",
+      "description": "Abandoned Desert",
+      "biome": "Barren",
+      "weather": "Occasional Sandstorms",
+      "sky_color": "Yellow",
+      "grass_color": "Brown",
+      "sentinel": "Enforcing",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "RetroTerrestrial",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/RetroTerrestrial"
     },
     {
       "page": "Feloccia Prime",
