@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:41:40.960494+00:00",
+    "generated_at": "2026-08-12T07:56:07.660316+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1673,
+    "count": 1675,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -13459,6 +13459,21 @@
       "glyphs": "1082F9557C30"
     },
     {
+      "page": "Mitron Research Base 015",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mitron_Research_Base_015",
+      "name": "Mitron Research Base 015",
+      "image_name": "mitronresearchbase015.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/mitronresearchbase015.png",
+      "builder": "",
+      "builder_link": "Mitrix",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Mitrix",
+      "game_release": "Xeno Arena",
+      "type": "Immersive",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "6082F9557C30"
+    },
+    {
       "page": "MKF Lighthouse 1",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/MKF_Lighthouse_1",
       "name": "MKF Lighthouse 1",
@@ -23102,6 +23117,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "6429CF58AC1F"
+    },
+    {
+      "page": "Tribute to Worm",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Tribute_to_Worm",
+      "name": "Tribute to Worm",
+      "image_name": "nmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
+      "builder": "DirtyDan94806",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Activity/Artistic/Business/Combat/Immersive/Production/Residential",
+      "galaxy": "Euclid",
+      "civilization": "",
+      "glyphs": ""
     },
     {
       "page": "Tributum ad Mare",

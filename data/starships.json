@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:41:19.534100+00:00",
+    "generated_at": "2026-08-12T07:55:49.233167+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1337,
+    "count": 1346,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1634,6 +1634,22 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "Bazanimans DM5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Bazanimans_DM5",
+      "name": "Bazanimans DM5",
+      "image_name": "BazanimanzDM5-Starboard.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b1/BazanimanzDM5-Starboard.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10C409557D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "BB8 Hiosakit",
@@ -3410,6 +3426,22 @@
       "discovered_by": "",
       "discoverer_page": "Nyeks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+    },
+    {
+      "page": "Dakab's Geometric Saviour",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Dakab%27s_Geometric_Saviour",
+      "name": "Dakab's Geometric Saviour",
+      "image_name": "DakabsGeometricSaviour-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bc/DakabsGeometricSaviour-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10C409557D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Dakam Terror X",
@@ -7236,6 +7268,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
     },
     {
+      "page": "Huginuchu KI3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Huginuchu_KI3",
+      "name": "Huginuchu KI3",
+      "image_name": "HuginuchuKI3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0d/HuginuchuKI3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Living Ship",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "21D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Hunter-8/N69-8",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hunter-8/N69-8",
       "name": "Hunter-8/N69-8",
@@ -8996,6 +9044,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "Kuwanuma's Flight",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kuwanuma%27s_Flight",
+      "name": "Kuwanuma's Flight",
+      "image_name": "Kuwanuma's Flight.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a7/Kuwanuma%27s_Flight.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2195F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Kuyamamo of Truth",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kuyamamo_of_Truth",
       "name": "Kuyamamo of Truth",
@@ -9295,6 +9359,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "102F09557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Magayam KY9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Magayam_KY9",
+      "name": "Magayam KY9",
+      "image_name": "MagayamKY9-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/51/MagayamKY9-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -14340,6 +14420,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LucasMdA66"
     },
     {
+      "page": "Shishomak GX6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Shishomak_GX6",
+      "name": "Shishomak GX6",
+      "image_name": "ShishomakGX6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/99/ShishomakGX6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Shoba's Inspiration",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Shoba%27s_Inspiration",
       "name": "Shoba's Inspiration",
@@ -15700,6 +15796,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Birth of Destruction",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Birth_of_Destruction",
+      "name": "The Birth of Destruction",
+      "image_name": "TheBirthOfDestruction-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/1d/TheBirthOfDestruction-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Birth of the Wind",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Birth_of_the_Wind",
       "name": "The Birth of the Wind",
@@ -16623,6 +16735,22 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Hawk of Madness",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Hawk_of_Madness",
+      "name": "The Hawk of Madness",
+      "image_name": "TheHawkOfMadness-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e6/TheHawkOfMadness-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Explorer",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10E408555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -19090,6 +19218,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Urano's Limitless Coup",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Urano%27s_Limitless_Coup",
+      "name": "Urano's Limitless Coup",
+      "image_name": "UranosLimitlessCoup-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/70/UranosLimitlessCoup-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10C409557D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ureshin's Gravity Prospect",

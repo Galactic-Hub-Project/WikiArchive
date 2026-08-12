@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:42:19.128800+00:00",
+    "generated_at": "2026-08-12T07:56:39.863164+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Colonies",
-    "count": 53,
+    "count": 52,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -591,18 +591,6 @@
       "restricted": "Yes",
       "status": "",
       "civilization": "Legacy Galactic Hub"
-    },
-    {
-      "page": "Triple S Attractions",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Triple_S_Attractions",
-      "name": "Triple S Attractions",
-      "image_name": "TSA.png",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/98/TSA.png",
-      "galaxy": "Euclid",
-      "glyphs": "1083D058AC1E",
-      "restricted": "",
-      "status": "Active",
-      "civilization": "Galactic Hub Project"
     },
     {
       "page": "Tropical Colony",

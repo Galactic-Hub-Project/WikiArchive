@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T07:42:17.129399+00:00",
+    "generated_at": "2026-08-12T07:56:38.149800+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 696,
+    "count": 697,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -14231,6 +14231,33 @@
       "discovered_by": "swampcastle",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB6-C4 Imahj-Atsk",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB6-C4_Imahj-Atsk",
+      "name": "HUB6-C4 Imahj-Atsk",
+      "image_name": "HUB6-C4-ImahjAtsk-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4f/HUB6-C4-ImahjAtsk-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Fujial Void",
+      "stars": "1",
+      "planets": "5",
+      "moons": "1",
+      "color": "Green",
+      "spectral_class": "E4p",
+      "glyphs": "10C409557D30",
+      "water": "Yes",
+      "dissonant": "YN",
+      "faction": "Korvax",
+      "economy": "Mercantile",
+      "economy_sell": "65.7%",
+      "economy_buy": "-20.7%",
+      "wealth": "\ud83d\udc80 (Black Market)",
+      "conflict": "3 (Pirate Controlled)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB6-EC Telamon's Friends",
