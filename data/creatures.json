@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T07:55:34.351555+00:00",
+    "generated_at": "2026-08-13T07:57:26.900755+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Creatures",
     "count": 4804,
@@ -99178,7 +99178,7 @@
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo",
       "game_release": "Xeno Arena",
-      "feature": "traitsSSS",
+      "feature": "traitsSSS crystalrear",
       "combat_effectiveness": "S",
       "agility": "S",
       "health": "S"

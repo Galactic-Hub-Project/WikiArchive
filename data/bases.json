@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T07:56:07.660316+00:00",
+    "generated_at": "2026-08-13T07:58:07.435399+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
     "count": 1675,
@@ -23122,16 +23122,16 @@
       "page": "Tribute to Worm",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Tribute_to_Worm",
       "name": "Tribute to Worm",
-      "image_name": "nmsMisc_NotAvailable.png",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/nmsMisc_NotAvailable.png",
+      "image_name": "IMG_1466.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1466.png",
       "builder": "DirtyDan94806",
-      "builder_link": "",
-      "builder_url": "",
+      "builder_link": "Dirty Dan94806",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806",
       "game_release": "Xeno Arena",
-      "type": "Activity/Artistic/Business/Combat/Immersive/Production/Residential",
+      "type": "Immersive",
       "galaxy": "Euclid",
-      "civilization": "",
-      "glyphs": ""
+      "civilization": "Galactic Hub Project",
+      "glyphs": "5065CE588C1D"
     },
     {
       "page": "Tributum ad Mare",
