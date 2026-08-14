@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T07:57:45.354484+00:00",
+    "generated_at": "2026-08-14T07:54:01.671613+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1355,
+    "count": 1363,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -434,6 +434,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "Ahasud GW6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ahasud_GW6",
+      "name": "Ahasud GW6",
+      "image_name": "AhasudGW6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/6c/AhasudGW6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ahikikus's Indiscretion",
@@ -5588,6 +5604,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/WickedLM"
     },
     {
+      "page": "FM3 Binawa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/FM3_Binawa",
+      "name": "FM3 Binawa",
+      "image_name": "FM3Binawa-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/56/FM3Binawa-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "FO8 Zakitama",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/FO8_Zakitama",
       "name": "FO8 Zakitama",
@@ -10676,6 +10708,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
     },
     {
+      "page": "Nikah QV7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nikah_QV7",
+      "name": "Nikah QV7",
+      "image_name": "NikahQV7-Main.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/02/NikahQV7-Main.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Nikkol's Floating Trailblazer",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nikkol%27s_Floating_Trailblazer",
       "name": "Nikkol's Floating Trailblazer",
@@ -10975,6 +11023,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "414008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Nosuket VU9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nosuket_VU9",
+      "name": "Nosuket VU9",
+      "image_name": "NosuketVU9-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/99/NosuketVU9-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -15908,6 +15972,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Birth of Gravity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Birth_of_Gravity",
+      "name": "The Birth of Gravity",
+      "image_name": "TheBirthOfGravity-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/09/TheBirthOfGravity-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11EF0A556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Birth of the Wind",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Birth_of_the_Wind",
       "name": "The Birth of the Wind",
@@ -16322,6 +16402,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "The Eagle of Gravity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Eagle_of_Gravity",
+      "name": "The Eagle of Gravity",
+      "image_name": "TheEagleOfGravity-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/31/TheEagleOfGravity-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The End of Abstraction",
@@ -18820,6 +18916,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "Tondabay Fabricator XVIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Tondabay_Fabricator_XVIII",
+      "name": "Tondabay Fabricator XVIII",
+      "image_name": "TondabayFabricatorXVIII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/65/TondabayFabricatorXVIII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Toriok's Voyage",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Toriok%27s_Voyage",
       "name": "Toriok's Voyage",
@@ -19794,6 +19906,22 @@
       "discovered_by": "",
       "discoverer_page": "LucasMdA66",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LucasMdA66"
+    },
+    {
+      "page": "VO1 Kodatey",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/VO1_Kodatey",
+      "name": "VO1 Kodatey",
+      "image_name": "VO1Kodatey-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b6/VO1Kodatey-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11EF0A556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Voice of the Hatsu",

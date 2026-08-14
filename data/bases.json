@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T07:58:07.435399+00:00",
+    "generated_at": "2026-08-14T07:54:23.258690+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1675,
+    "count": 1676,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -10862,6 +10862,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "0001F9556C30"
+    },
+    {
+      "page": "Iota Base",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Iota_Base",
+      "name": "Iota Base",
+      "image_name": "NmsMisc_NotAvailable.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/NmsMisc_NotAvailable.png",
+      "builder": "",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "IPDS Calypso Branch Office",
