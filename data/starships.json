@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T07:54:01.671613+00:00",
+    "generated_at": "2026-08-15T07:01:16.618626+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1363,
+    "count": 1367,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -6756,6 +6756,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "Hashi LE4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hashi_LE4",
+      "name": "Hashi LE4",
+      "image_name": "HashiLE4-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/90/HashiLE4-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11B708557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Hasuya Enforcer XIX",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hasuya_Enforcer_XIX",
       "name": "Hasuya Enforcer XIX",
@@ -9599,6 +9615,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "219808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Marvel of the Todat",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Marvel_of_the_Todat",
+      "name": "Marvel of the Todat",
+      "image_name": "MarvelOfTheTodat-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/89/MarvelOfTheTodat-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103208555D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -13394,6 +13426,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Remnant-\u03c6\u03bd",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Remnant-%CF%86%CE%BD",
+      "name": "Remnant-\u03c6\u03bd",
+      "image_name": "Remnant-\u03c6\u03bd.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3e/Remnant-%CF%86%CE%BD.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1085F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Remnant-\u03c6\u03be",
@@ -18290,6 +18338,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "The Spear of Infinity",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Spear_of_Infinity",
+      "name": "The Spear of Infinity",
+      "image_name": "TheSpearOfInfinity-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/45/TheSpearOfInfinity-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "418808557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Starlit Kucha",
