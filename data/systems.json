@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:02:14.694419+00:00",
+    "generated_at": "2026-08-16T07:04:12.725605+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 698,
+    "count": 699,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4619,6 +4619,33 @@
       "discovered_by": "Chemwars",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB16-115 Rarani",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB16-115_Rarani",
+      "name": "HUB16-115 Rarani",
+      "image_name": "HUB16-115-Rarani-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a2/HUB16-115-Rarani-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Zoyinskyl Boundary",
+      "stars": "1",
+      "planets": "3",
+      "moons": "3",
+      "color": "Yellow",
+      "spectral_class": "G4",
+      "glyphs": "21150A557D2F",
+      "water": "",
+      "dissonant": "",
+      "faction": "Gek",
+      "economy": "High Tech",
+      "economy_sell": "58.2%",
+      "economy_buy": "-27.7%",
+      "wealth": "\u2605\u2605\u2605 (Wealthy)",
+      "conflict": "1 (Peaceful)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB16-11C Typo",

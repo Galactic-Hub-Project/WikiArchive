@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:01:16.618626+00:00",
+    "generated_at": "2026-08-16T07:03:17.159306+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1367,
+    "count": 1375,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2271,6 +2271,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "602F09556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Bogdan KG1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Bogdan_KG1",
+      "name": "Bogdan KG1",
+      "image_name": "BogdanKG1-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/1d/BogdanKG1-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -5156,6 +5172,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/KDragonSS"
     },
     {
+      "page": "Flame-ME1/L",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flame-ME1/L",
+      "name": "Flame-ME1/L",
+      "image_name": "Flame-ME1-L.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5e/Flame-ME1-L.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1065F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Flame-\u03b3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flame-%CE%B3",
       "name": "Flame-\u03b3",
@@ -7282,6 +7314,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Hope-\u03c5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CF%85",
+      "name": "Hope-\u03c5",
+      "image_name": "Hope-\u03c5.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d2/Hope-%CF%85.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2408F9556C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Hope-\u03c8",
@@ -9650,6 +9698,22 @@
       "discovered_by": "",
       "discoverer_page": "it.is.bruce",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/it.is.bruce"
+    },
+    {
+      "page": "Master of the Roshi",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Master_of_the_Roshi",
+      "name": "Master of the Roshi",
+      "image_name": "MasterOfTheRoshi-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/dd/MasterOfTheRoshi-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11130A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Master of the Umotend",
@@ -15204,6 +15268,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Stellar Skylark BN4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Stellar_Skylark_BN4",
+      "name": "Stellar Skylark BN4",
+      "image_name": "StellarSkylarkBN4-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/08/StellarSkylarkBN4-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11130A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Stellar Tabashi XIII",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Stellar_Tabashi_XIII",
       "name": "Stellar Tabashi XIII",
@@ -18660,6 +18740,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The Voice of Destruction",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Voice_of_Destruction",
+      "name": "The Voice of Destruction",
+      "image_name": "TheVoiceOfDestruction-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f5/TheVoiceOfDestruction-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11290A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Voice of Perfection",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Voice_of_Perfection",
       "name": "The Voice of Perfection",
@@ -18770,6 +18866,22 @@
       "discovered_by": "[https://www.reddit.com/user/Lenni009 Lenni]",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "The Whispering Suyktyvk",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Whispering_Suyktyvk",
+      "name": "The Whispering Suyktyvk",
+      "image_name": "TheWhisperingSuyktyvk-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/55/TheWhisperingSuyktyvk-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Living Ship",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109C08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Whispering Tishebnyaz",
@@ -20034,6 +20146,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Voice of the Marumo",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Voice_of_the_Marumo",
+      "name": "Voice of the Marumo",
+      "image_name": "Voice of the Marumo.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/40/Voice_of_the_Marumo.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "10CEF9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Voice of the Obihi",
