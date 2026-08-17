@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:04:12.725605+00:00",
+    "generated_at": "2026-08-17T07:20:27.477191+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 699,
+    "count": 700,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -14852,6 +14852,33 @@
       "discovered_by": "Chamuelson1267",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "HUB8-7A Talukoup",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB8-7A_Talukoup",
+      "name": "HUB8-7A Talukoup",
+      "image_name": "HUB8-7A-Talukoup-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ef/HUB8-7A-Talukoup-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Aidjog",
+      "stars": "1",
+      "planets": "4",
+      "moons": "2",
+      "color": "Yellow",
+      "spectral_class": "F8f",
+      "glyphs": "307A09556D2F",
+      "water": "Y",
+      "dissonant": "N",
+      "faction": "Vy'keen",
+      "economy": "Mass Production",
+      "economy_sell": "72.4%",
+      "economy_buy": "-14.2%",
+      "wealth": "\ud83d\udc80 (Black Market)",
+      "conflict": "3 (Pirate Controlled)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB8-9 Tamira-Ankl",

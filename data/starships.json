@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T07:03:17.159306+00:00",
+    "generated_at": "2026-08-17T07:19:36.038454+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1375,
+    "count": 1380,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2244,6 +2244,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "BN9 Tosashim",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/BN9_Tosashim",
+      "name": "BN9 Tosashim",
+      "image_name": "BN9Tosashim-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/6e/BN9Tosashim-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "201DF9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "BO5 Togawa",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/BO5_Togawa",
       "name": "BO5 Togawa",
@@ -3698,6 +3714,22 @@
       "discovered_by": "",
       "discoverer_page": "Dovahren",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dovahren"
+    },
+    {
+      "page": "Deadly Song AS3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Deadly_Song_AS3",
+      "name": "Deadly Song AS3",
+      "image_name": "Deadly Song AS3.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b7/Deadly_Song_AS3.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1062F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Deadly Song XX2",
@@ -6095,6 +6127,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "30C808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Gerod's Flying Future",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gerod%27s_Flying_Future",
+      "name": "Gerod's Flying Future",
+      "image_name": "GerrodsFlyingFuture-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a2/GerrodsFlyingFuture-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -19524,6 +19572,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "Umish of Madness",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Umish_of_Madness",
+      "name": "Umish of Madness",
+      "image_name": "UmishOfMadness-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f8/UmishOfMadness-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Unishimo's Magnificent Desperation",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Unishimo%27s_Magnificent_Desperation",
       "name": "Unishimo's Magnificent Desperation",
@@ -20578,6 +20642,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "Wings of the Ebinam",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Wings_of_the_Ebinam",
+      "name": "Wings of the Ebinam",
+      "image_name": "WingsOfTheEbinam-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7d/WingsOfTheEbinam-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "201DF9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Wings of the Kaichi",
