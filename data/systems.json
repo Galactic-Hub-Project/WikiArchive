@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T07:20:27.477191+00:00",
+    "generated_at": "2026-08-18T07:09:02.145026+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 700,
+    "count": 701,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -8939,6 +8939,33 @@
       "discovered_by": "",
       "discoverer_page": "Stonedpilot01",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Stonedpilot01"
+    },
+    {
+      "page": "HUB21-3EE Lihula",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB21-3EE_Lihula",
+      "name": "HUB21-3EE Lihula",
+      "image_name": "Lihula space.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a4/Lihula_space.png",
+      "galaxy": "Calypso",
+      "region": "Joletova Boundary",
+      "stars": "2",
+      "planets": "1",
+      "moons": "5",
+      "color": "Purple",
+      "spectral_class": "Y7",
+      "glyphs": "33EEF9558C30",
+      "water": "No",
+      "dissonant": "Yes",
+      "faction": "Gek",
+      "economy": "Mathematical",
+      "economy_sell": "68.7%",
+      "economy_buy": "-12.7%",
+      "wealth": "\ud83d\udc80 Black Market",
+      "conflict": "\ud83d\udc80 Pirate Controlled",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "Mitrix",
+      "discoverer_page": "",
+      "discoverer_url": ""
     },
     {
       "page": "HUB21-402 Rom",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T07:19:54.529095+00:00",
+    "generated_at": "2026-08-18T07:08:27.413059+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1676,
+    "count": 1677,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -17657,6 +17657,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "3074CF589C1E"
+    },
+    {
+      "page": "Rewkes Blessing",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rewkes_Blessing",
+      "name": "Rewkes Blessing",
+      "image_name": "Rewkes Blessing Cover.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3b/Rewkes_Blessing_Cover.jpg",
+      "builder": "that_1_guy05",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1029F9556C30"
     },
     {
       "page": "Rewkes Listening Post 0-06",

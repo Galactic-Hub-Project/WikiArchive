@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T07:20:10.046893+00:00",
+    "generated_at": "2026-08-18T07:08:44.913731+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1070,
+    "count": 1071,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -12137,6 +12137,26 @@
       "sentinel": "Observant",
       "civilization": "Galactic Hub Project",
       "discovered_by": "crpthnflrst",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
+      "page": "Nawick Gamma",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nawick_Gamma",
+      "name": "Nawick Gamma",
+      "body_type": "Moon",
+      "image_name": "lihula-6 landscape.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/lihula-6%20landscape.png",
+      "galaxy": "Calypso",
+      "glyphs": "53EEF9558C30",
+      "description": "Icy",
+      "biome": "Frozen",
+      "weather": "Ice Storms",
+      "sky_color": "Blue",
+      "grass_color": "",
+      "sentinel": "Ever-present",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "Mitrix",
       "discoverer_page": "",
       "discoverer_url": ""
     },
