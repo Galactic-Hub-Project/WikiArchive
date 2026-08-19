@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T07:08:27.413059+00:00",
+    "generated_at": "2026-08-19T07:09:33.643267+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1677,
+    "count": 1678,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -12797,6 +12797,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "501BF9557C30"
+    },
+    {
+      "page": "Mansion Island",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mansion_Island",
+      "name": "Mansion Island",
+      "image_name": "20260818170404_1.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260818170404_1.jpg",
+      "builder": "Adamus",
+      "builder_link": "Adamus1453",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Adamus1453",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "209DD0589C1F"
     },
     {
       "page": "Mapium-Brau Base",

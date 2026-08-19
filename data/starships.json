@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T07:08:06.977170+00:00",
+    "generated_at": "2026-08-19T07:09:12.976333+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1380,
+    "count": 1390,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4452,6 +4452,22 @@
       "discoverer_url": ""
     },
     {
+      "page": "Endon of the Ancients",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Endon_of_the_Ancients",
+      "name": "Endon of the Ancients",
+      "image_name": "Endon of the Ancients.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/8d/Endon_of_the_Ancients.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "108CF9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Eniwaden's Last Laugh ZN9",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Eniwaden%27s_Last_Laugh_ZN9",
       "name": "Eniwaden's Last Laugh ZN9",
@@ -5842,6 +5858,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Frozen Aegis DH6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Frozen_Aegis_DH6",
+      "name": "Frozen Aegis DH6",
+      "image_name": "FrozenAegisDH6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/23/FrozenAegisDH6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Frozen Claws VH2",
@@ -7730,6 +7762,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Iedatolo Guardian XIX",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Iedatolo_Guardian_XIX",
+      "name": "Iedatolo Guardian XIX",
+      "image_name": "IedatoloGuardianX-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/27/IedatoloGuardianX-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Ihonjos's Crystal Voyager",
@@ -9780,6 +9828,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "Mazunok of the Vy'keen",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mazunok_of_the_Vy%27keen",
+      "name": "Mazunok of the Vy'keen",
+      "image_name": "MazunokOfTheVykeen-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/03/MazunokOfTheVykeen-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Megionech JE5",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Megionech_JE5",
       "name": "Megionech JE5",
@@ -10751,6 +10815,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "112908555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Nemesis of the Midoriya",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nemesis_of_the_Midoriya",
+      "name": "Nemesis of the Midoriya",
+      "image_name": "NemesisOfTheMidoriya-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/32/NemesisOfTheMidoriya-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -12802,6 +12882,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "RE3 Shiwa",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/RE3_Shiwa",
+      "name": "RE3 Shiwa",
+      "image_name": "RE3Shiwa-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fa/RE3Shiwa-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11560A557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Reborn-GU4-S26/Y95",
@@ -15423,6 +15519,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "107B08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Suitch's Parallax Defender",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Suitch%27s_Parallax_Defender",
+      "name": "Suitch's Parallax Defender",
+      "image_name": "SuitachsParallaxDefeat-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/02/SuitachsParallaxDefeat-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -19588,6 +19700,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Unamegur QZ6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Unamegur_QZ6",
+      "name": "Unamegur QZ6",
+      "image_name": "UnamegurQZ6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e9/UnamegurQZ6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11560A557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Unishimo's Magnificent Desperation",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Unishimo%27s_Magnificent_Desperation",
       "name": "Unishimo's Magnificent Desperation",
@@ -19746,6 +19874,22 @@
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Uriokaky's Reckless Initiator",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Uriokaky%27s_Reckless_Initiator",
+      "name": "Uriokaky's Reckless Initiator",
+      "image_name": "Uriokaky's Reckless Initiator.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/68/Uriokaky%27s_Reckless_Initiator.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1175F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Urugash JC4",
@@ -21426,6 +21570,22 @@
       "discovered_by": "",
       "discoverer_page": "Verderbenheger",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Verderbenheger"
+    },
+    {
+      "page": "\u0395-Blessed",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%95-Blessed",
+      "name": "\u0395-Blessed",
+      "image_name": "\u03b5-Blessed.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CE%B5-Blessed.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2415F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "\u0395-Purged",
