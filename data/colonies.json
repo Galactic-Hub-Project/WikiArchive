@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T07:10:10.423419+00:00",
+    "generated_at": "2026-08-20T07:10:57.285944+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Colonies",
     "count": 52,
@@ -169,7 +169,7 @@
       "galaxy": "Calypso",
       "glyphs": "322FF9556C2F",
       "restricted": "No",
-      "status": "",
+      "status": "Inactive",
       "civilization": "Galactic Hub Calypso"
     },
     {
