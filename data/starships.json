@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T07:10:01.276267+00:00",
+    "generated_at": "2026-08-21T07:11:09.714527+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1396,
+    "count": 1400,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2724,6 +2724,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Burned-\u03c6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-%CF%86",
+      "name": "Burned-\u03c6",
+      "image_name": "Burned-\u03c6.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5d/Burned-%CF%86.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "305FF9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Burned-\u03c6\u03b2",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burned-%CF%86%CE%B2",
       "name": "Burned-\u03c6\u03b2",
@@ -4425,7 +4441,7 @@
       "name": "End of the Akyushi",
       "image_name": "ShipPicEndof.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3d/ShipPicEndof.jpg",
-      "game_release": "Relics",
+      "game_release": "Xeno Arena",
       "type": "Fighter",
       "acquisition": "Authenticated",
       "galaxy": "Eissentam",
@@ -8580,6 +8596,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "JF6 Anjosep",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/JF6_Anjosep",
+      "name": "JF6 Anjosep",
+      "image_name": "JF6Anjosep-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/1c/JF6Anjosep-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "140609555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Jiidaka of Frost",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Jiidaka_of_Frost",
       "name": "Jiidaka of Frost",
@@ -10756,6 +10788,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Naykota of the Sun",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Naykota_of_the_Sun",
+      "name": "Naykota of the Sun",
+      "image_name": "NaykotaOfTheSun-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/66/NaykotaOfTheSun-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103609556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Nayosuk of Destruction",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nayosuk_of_Destruction",
       "name": "Nayosuk of Destruction",
@@ -11071,6 +11119,22 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "1079F9554C2E",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Nitanon of the Gek",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nitanon_of_the_Gek",
+      "name": "Nitanon of the Gek",
+      "image_name": "NitanonOfTheGek-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/57/NitanonOfTheGek-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "140609555D30",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

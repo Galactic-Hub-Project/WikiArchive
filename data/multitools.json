@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T07:10:45.991885+00:00",
+    "generated_at": "2026-08-21T07:12:01.464998+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 379,
+    "count": 381,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3076,6 +3076,22 @@
       "discoverer_url": ""
     },
     {
+      "page": "Obedience of Anovo-XVII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Obedience_of_Anovo-XVII",
+      "name": "Obedience of Anovo-XVII",
+      "image_name": "ObedienceOfAnovoXVII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/93/ObedienceOfAnovoXVII-Infobox.jpg",
+      "type": "Alien",
+      "galaxy": "Eissentam",
+      "glyphs": "11290A557D2F",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "19",
+      "mt_class": "C",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Obedience of Bones",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Obedience_of_Bones",
       "name": "Obedience of Bones",
@@ -5282,6 +5298,22 @@
       "discovered_by": "",
       "discoverer_page": "TPHaze",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/TPHaze"
+    },
+    {
+      "page": "Touch of the Nexus",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Touch_of_the_Nexus",
+      "name": "Touch of the Nexus",
+      "image_name": "TouchOfTheNexus-Hand.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4b/TouchOfTheNexus-Hand.jpg",
+      "type": "Alien",
+      "galaxy": "Eissentam",
+      "glyphs": "140609555D30",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "12",
+      "mt_class": "C",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Touch of the Night",
