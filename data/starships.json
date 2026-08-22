@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T07:11:09.714527+00:00",
+    "generated_at": "2026-08-22T07:02:56.842287+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1400,
+    "count": 1403,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3234,6 +3234,22 @@
       "discovered_by": "",
       "discoverer_page": "KDragonSS",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/KDragonSS"
+    },
+    {
+      "page": "Crimson-\u03bd\u03c3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-%CE%BD%CF%83",
+      "name": "Crimson-\u03bd\u03c3",
+      "image_name": "Crimson-\u03bd\u03c3.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3e/Crimson-%CE%BD%CF%83.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "640AFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Crimson-\u03c4",
@@ -9844,6 +9860,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Marvel of the Zuhot",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Marvel_of_the_Zuhot",
+      "name": "Marvel of the Zuhot",
+      "image_name": "MarvelOfTheZuhot-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b9/MarvelOfTheZuhot-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "100709556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Master of the Iobayase",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Master_of_the_Iobayase",
       "name": "Master of the Iobayase",
@@ -13282,6 +13314,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Recovered-\u03c4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Recovered-%CF%84",
+      "name": "Recovered-\u03c4",
+      "image_name": "Recovered-\u03c4.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e9/Recovered-%CF%84.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1423FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Recovered-\u03c5",

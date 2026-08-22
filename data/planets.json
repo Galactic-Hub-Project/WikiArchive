@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T07:11:52.106170+00:00",
+    "generated_at": "2026-08-22T07:03:31.537859+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1071,
+    "count": 1072,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -4219,6 +4219,26 @@
       "discovered_by": "ApexFatality93",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Dorsibia",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Dorsibia",
+      "name": "Dorsibia",
+      "body_type": "Planet",
+      "image_name": "Dorsibia-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a4/Dorsibia-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "glyphs": "307A09556D2F",
+      "description": "Wind-swept",
+      "biome": "Barren",
+      "weather": "Ceaseless Drought",
+      "sky_color": "Pale Pink",
+      "grass_color": "Brown",
+      "sentinel": "Minimal",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Dothawra",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T07:12:01.464998+00:00",
+    "generated_at": "2026-08-22T07:03:38.854936+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 381,
+    "count": 382,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -4578,6 +4578,22 @@
       "discovered_by": "",
       "discoverer_page": "Nodrap",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nodrap"
+    },
+    {
+      "page": "Sleep of the Horizon G/7-JZ4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sleep_of_the_Horizon_G/7-JZ4",
+      "name": "Sleep of the Horizon G/7-JZ4",
+      "image_name": "SleepOfTheHorizonG-7-JZ4-Hand.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/16/SleepOfTheHorizonG-7-JZ4-Hand.jpg",
+      "type": "Alien",
+      "galaxy": "Eissentam",
+      "glyphs": "307A09556D2F",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "13",
+      "mt_class": "C",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Sleep of Yesertsen-XVI",
