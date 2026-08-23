@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T07:02:56.842287+00:00",
+    "generated_at": "2026-08-23T07:05:10.372294+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1403,
+    "count": 1408,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -959,6 +959,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "602F09556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Anjotuk's Magnificent Defeat",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Anjotuk%27s_Magnificent_Defeat",
+      "name": "Anjotuk's Magnificent Defeat",
+      "image_name": "AnjotuksMagnificentDefeat-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/23/AnjotuksMagnificentDefeat-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103109556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -2287,6 +2303,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "602F09556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Bodarsko NQ2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Bodarsko_NQ2",
+      "name": "Bodarsko NQ2",
+      "image_name": "BodarskoNQ2-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/eb/BodarskoNQ2-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -7460,6 +7492,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Hope-\u03c0",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CF%80",
+      "name": "Hope-\u03c0",
+      "image_name": "Hope-\u03c0.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/1e/Hope-%CF%80.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "5421FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Hope-\u03c5",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CF%85",
       "name": "Hope-\u03c5",
@@ -11266,6 +11314,22 @@
       "discovered_by": "",
       "discoverer_page": "W1ck3d_W1ndZ",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/W1ck3d_W1ndZ"
+    },
+    {
+      "page": "Noichi's Favourite Prospector",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Noichi%27s_Favourite_Prospector",
+      "name": "Noichi's Favourite Prospector",
+      "image_name": "NoichisFavouriteProspector-Main.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bc/NoichisFavouriteProspector-Main.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Nojoseph Void-Dancer IX",
@@ -17935,6 +17999,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10DF08555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Missing Ezusumxu",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Missing_Ezusumxu",
+      "name": "The Missing Ezusumxu",
+      "image_name": "TheMissingEzusumxu-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/db/TheMissingEzusumxu-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11EF0A556D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

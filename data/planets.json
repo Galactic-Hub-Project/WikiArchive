@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T07:03:31.537859+00:00",
+    "generated_at": "2026-08-23T07:05:44.595760+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1072,
@@ -4228,7 +4228,7 @@
       "image_name": "Dorsibia-Infobox.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a4/Dorsibia-Infobox.jpg",
       "galaxy": "Eissentam",
-      "glyphs": "307A09556D2F",
+      "glyphs": "207A09556D2F",
       "description": "Wind-swept",
       "biome": "Barren",
       "weather": "Ceaseless Drought",

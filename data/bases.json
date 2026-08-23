@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T07:03:15.791124+00:00",
+    "generated_at": "2026-08-23T07:05:29.007820+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1678,
+    "count": 1679,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -122,6 +122,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "501BF9557C30"
+    },
+    {
+      "page": "8-7A Dorsibia Mould Farm",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/8-7A_Dorsibia_Mould_Farm",
+      "name": "8-7A Dorsibia Mould Farm",
+      "image_name": "8-7A-DorsibiaMouldFarm-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a7/8-7A-DorsibiaMouldFarm-Infobox.jpg",
+      "builder": "",
+      "builder_link": "OhDraw",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw",
+      "game_release": "Xeno Arena",
+      "type": "Production",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "207A09556D2F"
     },
     {
       "page": "A Fishin' Hole",
