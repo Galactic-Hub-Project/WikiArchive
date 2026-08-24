@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:05:29.007820+00:00",
+    "generated_at": "2026-08-24T07:32:19.868981+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1679,
+    "count": 1680,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -8177,6 +8177,21 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "00A8F9555C30"
+    },
+    {
+      "page": "Getting Over It with Keylor Gonzalez",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Getting_Over_It_with_Keylor_Gonzalez",
+      "name": "Getting Over It with Keylor Gonzalez",
+      "image_name": "Vertical.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/02/Vertical.png",
+      "builder": "Keylor.Gonzalez",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Activity",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1082F9557C30"
     },
     {
       "page": "GH - Beachcomber",

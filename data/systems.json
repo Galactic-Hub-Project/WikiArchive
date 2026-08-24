@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:06:00.413127+00:00",
+    "generated_at": "2026-08-24T07:32:50.573182+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 706,
+    "count": 707,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -14825,6 +14825,33 @@
       "discovered_by": "3/11/2025",
       "discoverer_page": "Zombini61",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Zombini61"
+    },
+    {
+      "page": "HUB7-418 Rendema",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/HUB7-418_Rendema",
+      "name": "HUB7-418 Rendema",
+      "image_name": "HUB7-418-Rendema-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/HUB7-418-Rendema-Infobox.jpg",
+      "galaxy": "Eissentam",
+      "region": "Lugalus Fringe",
+      "stars": "1",
+      "planets": "1",
+      "moons": "5",
+      "color": "Purple (Gas Giant)",
+      "spectral_class": "Y9f",
+      "glyphs": "141809557D2F",
+      "water": "Yes",
+      "dissonant": "Yes",
+      "faction": "Gek",
+      "economy": "Mercantile",
+      "economy_sell": "77.9%",
+      "economy_buy": "13.6%",
+      "wealth": "\u2605\u2605  (Sustainable)",
+      "conflict": "1 (Untroubled)",
+      "civilization": "Galactic Hub Eissentam",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "HUB7-77 Almene-Hahdz II",

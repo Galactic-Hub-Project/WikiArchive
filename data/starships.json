@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T07:05:10.372294+00:00",
+    "generated_at": "2026-08-24T07:32:01.351830+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1408,
+    "count": 1416,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -866,6 +866,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Amurai Liberator VII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Amurai_Liberator_VII",
+      "name": "Amurai Liberator VII",
+      "image_name": "AmuraiLiberatorVII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/89/AmuraiLiberatorVII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "41440A555D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Anaiat of Inevitability",
@@ -2372,6 +2388,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
     },
     {
+      "page": "Boriy GD6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Boriy_GD6",
+      "name": "Boriy GD6",
+      "image_name": "BoriyGD6-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/46/BoriyGD6-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11190A556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Bosolat IR2",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Bosolat_IR2",
       "name": "Bosolat IR2",
@@ -2962,6 +2994,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "BW5 Rittor",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/BW5_Rittor",
+      "name": "BW5 Rittor",
+      "image_name": "BW5Rittor-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/fd/BW5Rittor-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "141809557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Chizurug's Inspiration QV4",
@@ -6948,6 +6996,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "Hand of the Sekinoh",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hand_of_the_Sekinoh",
+      "name": "Hand of the Sekinoh",
+      "image_name": "Hand of the Sekinoh-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e5/Hand_of_the_Sekinoh-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "141809557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Hanro of Providence",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hanro_of_Providence",
       "name": "Hanro of Providence",
@@ -7218,6 +7282,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "Hisoma Trailblazer XIV",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hisoma_Trailblazer_XIV",
+      "name": "Hisoma Trailblazer XIV",
+      "image_name": "HisomaTrailblazerXIV-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/05/HisomaTrailblazerXIV-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "111A09557D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Hitokyo SM3",
@@ -11540,6 +11620,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/W1ck3d_w1ndz"
     },
     {
+      "page": "NV2 Iryuga",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/NV2_Iryuga",
+      "name": "NV2 Iryuga",
+      "image_name": "NV2Iryuga-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/20/NV2Iryuga-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "14050A557D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "O-Flameborn",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/O-Flameborn",
       "name": "O-Flameborn",
@@ -12255,6 +12351,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10B008555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Owl of the Irosait",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Owl_of_the_Irosait",
+      "name": "Owl of the Irosait",
+      "image_name": "OwlOfTheIrosait-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/52/OwlOfTheIrosait-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "51980A556D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -13330,6 +13442,22 @@
       "discovered_by": "Odinsvagt",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Reckless Eagle WX5",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Reckless_Eagle_WX5",
+      "name": "Reckless Eagle WX5",
+      "image_name": "RecklessEagleWX5-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/2e/RecklessEagleWX5-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "51980A556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Reckless Pillar DE6",
