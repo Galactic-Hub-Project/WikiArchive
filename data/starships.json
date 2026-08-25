@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:32:01.351830+00:00",
+    "generated_at": "2026-08-25T07:11:56.193981+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1416,
+    "count": 1421,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -50,6 +50,22 @@
       "discovered_by": "",
       "discoverer_page": "Dragon_Riders_Song",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
+    },
+    {
+      "page": "Abaritt of Beauty",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Abaritt_of_Beauty",
+      "name": "Abaritt of Beauty",
+      "image_name": "AbarittOfBeauty-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/8/83/AbarittOfBeauty-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103609556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Abduly YF9",
@@ -9252,6 +9268,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Kodai's Exhausted Pilgrim",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kodai%27s_Exhausted_Pilgrim",
+      "name": "Kodai's Exhausted Pilgrim",
+      "image_name": "Kodai's Exhausted Pilgrim.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/14/Kodai%27s_Exhausted_Pilgrim.png",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1406FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Koharats of the Moon",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Koharats_of_the_Moon",
       "name": "Koharats of the Moon",
@@ -12194,6 +12226,22 @@
       "discovered_by": "",
       "discoverer_page": "ElCapoChino",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
+    },
+    {
+      "page": "OP4 Endor",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/OP4_Endor",
+      "name": "OP4 Endor",
+      "image_name": "OP4Endor-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/ca/OP4Endor-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "109F08555D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Oranoya Examiner XIX",
@@ -18580,6 +18628,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
     },
     {
+      "page": "The Radiant Pamiess",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Radiant_Pamiess",
+      "name": "The Radiant Pamiess",
+      "image_name": "TheRadiantPamiess-Port.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/78/TheRadiantPamiess-Port.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103609556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Reflection of Frost",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Reflection_of_Frost",
       "name": "The Reflection of Frost",
@@ -20610,6 +20674,22 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "VG5 Ishisoma",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/VG5_Ishisoma",
+      "name": "VG5 Ishisoma",
+      "image_name": "VG5 Ishisoma.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/ba/VG5_Ishisoma.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1406FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "VH9 Iurasud",

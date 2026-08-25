@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:32:35.637158+00:00",
+    "generated_at": "2026-08-25T07:12:38.128935+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1072,
+    "count": 1074,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -9461,6 +9461,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Moto178"
     },
     {
+      "page": "Koha 67/Y3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Koha_67/Y3",
+      "name": "Koha 67/Y3",
+      "body_type": "Planet",
+      "image_name": "IMG_1510.jpeg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1510.jpeg",
+      "galaxy": "Euclid",
+      "glyphs": "1193CE588C1D",
+      "description": "Radioactive Abomination",
+      "biome": "Irradiated",
+      "weather": "Irradiated Downpour",
+      "sky_color": "Grey",
+      "grass_color": "Glowing",
+      "sentinel": "Isolated",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "Dirty Dan94806",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
+    },
+    {
       "page": "Kokinnius",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Kokinnius",
       "name": "Kokinnius",
@@ -9797,6 +9817,26 @@
       "sentinel": "Enforcing",
       "civilization": "Legacy Galactic Hub",
       "discovered_by": "brianasagi",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
+      "page": "Lack",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Lack",
+      "name": "Lack",
+      "body_type": "Planet",
+      "image_name": "IMG_1522.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1522.png",
+      "galaxy": "Euclid",
+      "glyphs": "2193CE588C1D",
+      "description": "Rocky Planet",
+      "biome": "Rocky",
+      "weather": "Dead Wastes",
+      "sky_color": "Green",
+      "grass_color": "",
+      "sentinel": "High Security",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "[[User:Dirty Dan94806]]",
       "discoverer_page": "",
       "discoverer_url": ""
     },

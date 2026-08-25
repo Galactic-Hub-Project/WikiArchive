@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:32:19.868981+00:00",
+    "generated_at": "2026-08-25T07:12:18.784647+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1680,
+    "count": 1681,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2987,6 +2987,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "322FF9556C2F"
+    },
+    {
+      "page": "Calypso Yomumfor",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Calypso_Yomumfor",
+      "name": "Calypso Yomumfor",
+      "image_name": "Calypso Yomumfor.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/13/Calypso_Yomumfor.png",
+      "builder": "",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xeno Arena",
+      "type": "Residential",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "3124F9555C2E"
     },
     {
       "page": "Calypso's Nomad",
