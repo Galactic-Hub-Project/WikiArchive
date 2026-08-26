@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T07:11:56.193981+00:00",
+    "generated_at": "2026-08-26T07:12:20.632201+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1421,
+    "count": 1424,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1263,6 +1263,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "108A08555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Arutosat Defender XII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Arutosat_Defender_XII",
+      "name": "Arutosat Defender XII",
+      "image_name": "ArutosatDefenderXII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ee/ArutosatDefenderXII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "119D08556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -5426,6 +5442,22 @@
       "discovered_by": "",
       "discoverer_page": "Nyeks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+    },
+    {
+      "page": "Flame-\u03c0\u03b4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flame-%CF%80%CE%B4",
+      "name": "Flame-\u03c0\u03b4",
+      "image_name": "Flame-\u03c0\u03b4.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/73/Flame-%CF%80%CE%B4.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23FFFA556C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Flame-\u03c1\u03c0",
@@ -10617,7 +10649,7 @@
       "name": "Musasa's Experiment ES7",
       "image_name": "ShipViewMusa.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/2f/ShipViewMusa.jpg",
-      "game_release": "Relics",
+      "game_release": "Xeno Arena",
       "type": "Explorer",
       "acquisition": "Authenticated",
       "galaxy": "Eissentam",
@@ -20242,6 +20274,22 @@
       "discovered_by": "",
       "discoverer_page": "Nighthawks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nighthawks"
+    },
+    {
+      "page": "Unzen's Frozen Gambit",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Unzen%27s_Frozen_Gambit",
+      "name": "Unzen's Frozen Gambit",
+      "image_name": "UnzensFrozenGambit-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c9/UnzensFrozenGambit-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "119D08556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Uonumas Bright Protector",

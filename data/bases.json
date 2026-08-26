@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T07:12:18.784647+00:00",
+    "generated_at": "2026-08-26T07:12:42.789052+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1681,
+    "count": 1683,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -8199,9 +8199,9 @@
       "name": "Getting Over It with Keylor Gonzalez",
       "image_name": "Vertical.png",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/02/Vertical.png",
-      "builder": "Keylor.Gonzalez",
-      "builder_link": "",
-      "builder_url": "",
+      "builder": "",
+      "builder_link": "Keylor.Gonzalez",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Keylor.Gonzalez",
       "game_release": "Xeno Arena",
       "type": "Activity",
       "galaxy": "Calypso",
@@ -16474,6 +16474,21 @@
       "glyphs": "642009555D30"
     },
     {
+      "page": "Pixel Art - Plague Knight",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Pixel_Art_-_Plague_Knight",
+      "name": "Pixel Art - Plague Knight",
+      "image_name": "Plague Knight artpiece at night.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bf/Plague_Knight_artpiece_at_night.png",
+      "builder": "",
+      "builder_link": "ScrapperBee",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ScrapperBee",
+      "game_release": "Xeno Arena",
+      "type": "Artistic",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "6156F9554C2E"
+    },
+    {
       "page": "Plain ol base",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Plain_ol_base",
       "name": "Plain ol base",
@@ -23657,6 +23672,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "2063F9554C2F"
+    },
+    {
+      "page": "Uthmi Base",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Uthmi_Base",
+      "name": "Uthmi Base",
+      "image_name": "image.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/image.jpg",
+      "builder": "kelano87",
+      "builder_link": "",
+      "builder_url": "",
+      "game_release": "Xenoarena",
+      "type": "Residential",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "Uthmi Beta Lakeside Penthouse",

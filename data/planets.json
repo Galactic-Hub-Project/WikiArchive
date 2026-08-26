@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T07:12:38.128935+00:00",
+    "generated_at": "2026-08-26T07:13:01.822606+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1074,
+    "count": 1075,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -7181,6 +7181,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/tfitz"
     },
     {
+      "page": "Hazeleuc XVIII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hazeleuc_XVIII",
+      "name": "Hazeleuc XVIII",
+      "body_type": "Planet",
+      "image_name": "IMG_1525.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1525.png",
+      "galaxy": "Euclid",
+      "glyphs": "4055CE589C1D",
+      "description": "",
+      "biome": "Toxic",
+      "weather": "Caustic Floods",
+      "sky_color": "Blue/Red/Green/Yellow/Purple/Orange",
+      "grass_color": "Blue/Red/Green/Yellow/Purple/White/Orange/Brown/Color Shift",
+      "sentinel": "",
+      "civilization": "",
+      "discovered_by": "",
+      "discoverer_page": "",
+      "discoverer_url": ""
+    },
+    {
       "page": "Headis Joso",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Headis_Joso",
       "name": "Headis Joso",
@@ -9836,9 +9856,9 @@
       "grass_color": "",
       "sentinel": "High Security",
       "civilization": "Galactic Hub Project",
-      "discovered_by": "[[User:Dirty Dan94806]]",
-      "discoverer_page": "",
-      "discoverer_url": ""
+      "discovered_by": "",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },
     {
       "page": "Ladustum Z14",
