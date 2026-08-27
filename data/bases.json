@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T07:12:42.789052+00:00",
+    "generated_at": "2026-08-27T17:42:01.655424+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1683,
+    "count": 1682,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -17987,21 +17987,6 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "1073F9556C31"
-    },
-    {
-      "page": "Rusty Sharp Turn",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Rusty_Sharp_Turn",
-      "name": "Rusty Sharp Turn",
-      "image_name": "Screenshot 2026-06-17 105910.png",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/16/Screenshot_2026-06-17_105910.png",
-      "builder": "",
-      "builder_link": "Nyeks",
-      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks",
-      "game_release": "Xenoarena",
-      "type": "Combat",
-      "galaxy": "Calypso",
-      "civilization": "Galactic Hub Calypso",
-      "glyphs": "0009F9558C30"
     },
     {
       "page": "Rusty's Hideout",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T07:13:01.822606+00:00",
+    "generated_at": "2026-08-27T17:42:18.474782+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1075,
@@ -7189,13 +7189,13 @@
       "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1525.png",
       "galaxy": "Euclid",
       "glyphs": "4055CE589C1D",
-      "description": "",
+      "description": "Corrosive Planet",
       "biome": "Toxic",
       "weather": "Caustic Floods",
-      "sky_color": "Blue/Red/Green/Yellow/Purple/Orange",
-      "grass_color": "Blue/Red/Green/Yellow/Purple/White/Orange/Brown/Color Shift",
+      "sky_color": "Green",
+      "grass_color": "",
       "sentinel": "",
-      "civilization": "",
+      "civilization": "Galactic Hub Project",
       "discovered_by": "",
       "discoverer_page": "",
       "discoverer_url": ""
@@ -9496,7 +9496,7 @@
       "grass_color": "Glowing",
       "sentinel": "Isolated",
       "civilization": "Galactic Hub Project",
-      "discovered_by": "Dirty Dan94806",
+      "discovered_by": "",
       "discoverer_page": "Dirty Dan94806",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T07:12:20.632201+00:00",
+    "generated_at": "2026-08-27T17:41:42.007570+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1424,
+    "count": 1439,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2116,6 +2116,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "Blessed-\u03bb\u03b4",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blessed-%CE%BB%CE%B4",
+      "name": "Blessed-\u03bb\u03b4",
+      "image_name": "Blessed-\u03bb\u03b4.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d9/Blessed-%CE%BB%CE%B4.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "241BFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Blessed-\u03bd",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blessed-%CE%BD",
       "name": "Blessed-\u03bd",
@@ -2290,6 +2306,22 @@
       "discovered_by": "",
       "discoverer_page": "Verderbenheger",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Verderbenheger"
+    },
+    {
+      "page": "Blessing-\u03bf",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blessing-%CE%BF",
+      "name": "Blessing-\u03bf",
+      "image_name": "Blessing-\u03bf.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c3/Blessing-%CE%BF.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23F1FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "BM3 Katok",
@@ -2530,6 +2562,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Breath of the Unoku",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Breath_of_the_Unoku",
+      "name": "Breath of the Unoku",
+      "image_name": "BreathOfTheUnoku-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/13/BreathOfTheUnoku-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Bright Prophecy AH1",
@@ -2914,6 +2962,22 @@
       "discovered_by": "",
       "discoverer_page": "Canuckvirgo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Canuckvirgo"
+    },
+    {
+      "page": "Burning Mistress CV7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burning_Mistress_CV7",
+      "name": "Burning Mistress CV7",
+      "image_name": "BurningMistressCV7-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/46/BurningMistressCV7-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Burning Ouchiyo",
@@ -3810,6 +3874,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Dawaguc's Geometric Spirit",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Dawaguc%27s_Geometric_Spirit",
+      "name": "Dawaguc's Geometric Spirit",
+      "image_name": "DawagucsGeometricSpirit-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ef/DawagucsGeometricSpirit-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Dawaku WK1",
@@ -12820,6 +12900,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "PS2 Iidaka",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/PS2_Iidaka",
+      "name": "PS2 Iidaka",
+      "image_name": "PS2Iidaka-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/78/PS2Iidaka-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "PS9 Shoga",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/PS9_Shoga",
       "name": "PS9 Shoga",
@@ -13234,6 +13330,22 @@
       "discovered_by": "",
       "discoverer_page": "Odinsvagt",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
+    },
+    {
+      "page": "Ranoyam Trailblazer XIV",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ranoyam_Trailblazer_XIV",
+      "name": "Ranoyam Trailblazer XIV",
+      "image_name": "RanoyamTrailblazerXIV-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/53/RanoyamTrailblazerXIV-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Rashi's Prize",
@@ -14770,6 +14882,22 @@
       "discovered_by": "",
       "discoverer_page": "JosieWhat",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/JosieWhat"
+    },
+    {
+      "page": "Salvaged-\u03c4\u03b9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Salvaged-%CF%84%CE%B9",
+      "name": "Salvaged-\u03c4\u03b9",
+      "image_name": "Salvaged-\u03c4\u03b9.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9f/Salvaged-%CF%84%CE%B9.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23F7FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Salvaged-\u03c4\u03be",
@@ -17204,6 +17332,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "The End of the Vy'keen",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_End_of_the_Vy%27keen",
+      "name": "The End of the Vy'keen",
+      "image_name": "TheEndOfTheVykeen-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/cc/TheEndOfTheVykeen-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Father of Destruction",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Father_of_Destruction",
       "name": "The Father of Destruction",
@@ -18628,6 +18772,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
     },
     {
+      "page": "The Prophecy of the Wind",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Prophecy_of_the_Wind",
+      "name": "The Prophecy of the Wind",
+      "image_name": "TheProphecyOfTheWind-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/d5/TheProphecyOfTheWind-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "The Prophecy of Truth",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Prophecy_of_Truth",
       "name": "The Prophecy of Truth",
@@ -18991,6 +19151,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Son of the Vy'keen",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Son_of_the_Vy%27keen",
+      "name": "The Son of the Vy'keen",
+      "image_name": "TheSonOfTheVykeen-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/90/TheSonOfTheVykeen-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Solar",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -20034,6 +20210,22 @@
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Ubunjiw's Hyper Architect",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ubunjiw%27s_Hyper_Architect",
+      "name": "Ubunjiw's Hyper Architect",
+      "image_name": "UbunjiwsHyperArchitect-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0d/UbunjiwsHyperArchitect-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Uchork's Gravity Pilgrim",
@@ -21508,6 +21700,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/HayleyGeek"
     },
     {
+      "page": "Yasuna KH2",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Yasuna_KH2",
+      "name": "Yasuna KH2",
+      "image_name": "YazunaKH2-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f2/YazunaKH2-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "307A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Yatsu's Favourite Future",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Yatsu%27s_Favourite_Future",
       "name": "Yatsu's Favourite Future",
@@ -22068,6 +22276,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
     },
     {
+      "page": "\u0394-Burned",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%94-Burned",
+      "name": "\u0394-Burned",
+      "image_name": "\u03b4-Burned.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CE%B4-Burned.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23E6FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "\u0394-Fire",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%94-Fire",
       "name": "\u03b4-Fire",
@@ -22626,6 +22850,22 @@
       "discovered_by": "",
       "discoverer_page": "JosieWhat",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/JosieWhat"
+    },
+    {
+      "page": "\u03a3-Blessed",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%A3-Blessed",
+      "name": "\u03a3-Blessed",
+      "image_name": "\u03c3-Blessed.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CF%83-Blessed.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23F3FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "\u03a3-Hunter",
