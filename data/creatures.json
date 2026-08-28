@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T17:41:24.676729+00:00",
+    "generated_at": "2026-08-28T18:47:42.611541+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Creatures",
-    "count": 4847,
+    "count": 4848,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1713,6 +1713,35 @@
       "combat_effectiveness": "",
       "agility": "",
       "health": ""
+    },
+    {
+      "page": "A. Grabrexusia",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/A._Grabrexusia",
+      "name": "A. Grabrexusia",
+      "image_name": "1a0472740e765-screenshotUrl.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b5/1a0472740e765-screenshotUrl.jpg",
+      "galaxy": "Euclid",
+      "region": "Pewyan Adjunct",
+      "system": "HUB20-77 Athanasios",
+      "planet": "Amosse IX",
+      "moon": "Ibanuely V50",
+      "glyphs": "6077CE588C1E",
+      "coordinates": "041D:004D:0D87:0077",
+      "height": "8.1 - 8.0",
+      "weight": "363.5 - 355.8",
+      "genus": "Anastomus",
+      "worm_class": "",
+      "worm_depth": "",
+      "worm_stomach": "",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "RetroTerrestrial",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/RetroTerrestrial",
+      "game_release": "Xeno Arena",
+      "feature": "8m",
+      "combat_effectiveness": "C",
+      "agility": "B",
+      "health": "B"
     },
     {
       "page": "A. Grainmubucima",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T17:41:42.007570+00:00",
+    "generated_at": "2026-08-28T18:48:01.635948+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1439,
+    "count": 1446,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -2050,6 +2050,22 @@
       "discovered_by": "",
       "discoverer_page": "KDragonSS",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/KDragonSS"
+    },
+    {
+      "page": "Blessed-Y95-VF1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Blessed-Y95-VF1",
+      "name": "Blessed-Y95-VF1",
+      "image_name": "Blessed-Y95-VF1.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3f/Blessed-Y95-VF1.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "241CFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Blessed-\u03b4",
@@ -5476,6 +5492,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
+      "page": "Flame-P-1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flame-P-1",
+      "name": "Flame-P-1",
+      "image_name": "Flame-P-1.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3d/Flame-P-1.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "6402FA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Flame-\u03b3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flame-%CE%B3",
       "name": "Flame-\u03b3",
@@ -6612,6 +6644,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
     },
     {
+      "page": "Glass Soul-S-J43-1",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Glass_Soul-S-J43-1",
+      "name": "Glass Soul-S-J43-1",
+      "image_name": "Glass Soul-S-J43-1.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/bb/Glass_Soul-S-J43-1.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23FDFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Glass Soul-V-3",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Glass_Soul-V-3",
       "name": "Glass Soul-V-3",
@@ -7727,6 +7775,22 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "2408F9556C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Hope-\u03c6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CF%86",
+      "name": "Hope-\u03c6",
+      "image_name": "Hope-\u03c6.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a3/Hope-%CF%86.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2423FA555C30",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -16468,6 +16532,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "T-Shard",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/T-Shard",
+      "name": "T-Shard",
+      "image_name": "t-Shard.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/t-Shard.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2404FA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Taaki's Radiant Adventurer",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Taaki%27s_Radiant_Adventurer",
       "name": "Taaki's Radiant Adventurer",
@@ -17810,6 +17890,22 @@
       "discovered_by": "",
       "discoverer_page": "ItalicInterloper",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ItalicInterloper"
+    },
+    {
+      "page": "The Haunted Zavolovsko",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Haunted_Zavolovsko",
+      "name": "The Haunted Zavolovsko",
+      "image_name": "TheHauntedZavolovsko-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c5/TheHauntedZavolovsko-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Living Ship",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "207A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "The Hawk of Abstraction",
@@ -21954,6 +22050,22 @@
       "discovered_by": "",
       "discoverer_page": "Nyeks",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
+    },
+    {
+      "page": "Zanamensk UH8",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Zanamensk_UH8",
+      "name": "Zanamensk UH8",
+      "image_name": "ZanamenskUH8-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f0/ZanamenskUH8-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Living Ship",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "107A09556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Zawase's Indiscretion",
