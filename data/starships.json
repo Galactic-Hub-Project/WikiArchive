@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T18:48:01.635948+00:00",
+    "generated_at": "2026-08-29T12:44:47.526701+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1446,
+    "count": 1450,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1359,6 +1359,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "414AD058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Atlas-Fire-OA6 Z OW8",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Atlas-Fire-OA6_Z_OW8",
+      "name": "Atlas-Fire-OA6 Z OW8",
+      "image_name": "Atlas-Fire-OA6_Z_OW8.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/Atlas-Fire-OA6_Z_OW8.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23EEFA555C30",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -6948,6 +6964,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dragon_Riders_Song"
     },
     {
+      "page": "Gravity Voice CX7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gravity_Voice_CX7",
+      "name": "Gravity Voice CX7",
+      "image_name": "GravityVoiceCX7-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/e5/GravityVoiceCX7-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11190A556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Gravity Wings ZG4",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gravity_Wings_ZG4",
       "name": "Gravity Wings ZG4",
@@ -7714,6 +7746,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "Hope-\u03b8",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hope-%CE%B8",
+      "name": "Hope-\u03b8",
+      "image_name": "Hope-\u03b8.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/7/7a/Hope-%CE%B8.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "241AFA556C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Hope-\u03bb",
@@ -21839,6 +21887,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "31AC0A555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "YN2 Ouchiyo",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/YN2_Ouchiyo",
+      "name": "YN2 Ouchiyo",
+      "image_name": "YN2Ouchiyo-Port.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/09/YN2Ouchiyo-Port.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11190A556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

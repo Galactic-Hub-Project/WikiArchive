@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T18:48:57.947020+00:00",
+    "generated_at": "2026-08-29T12:45:39.647898+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 382,
+    "count": 383,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -1346,6 +1346,22 @@
       "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
+    },
+    {
+      "page": "Force Compressor Mark II",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Force_Compressor_Mark_II",
+      "name": "Force Compressor Mark II",
+      "image_name": "Screenshot 2026-08-29 142538.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/59/Screenshot_2026-08-29_142538.png",
+      "type": "Pistol",
+      "galaxy": "Calypso",
+      "glyphs": "1428F9555C31",
+      "civilization": "Galactic Hub Calypso",
+      "slots": "18",
+      "mt_class": "B",
+      "discovered_by": "",
+      "discoverer_page": "Dovahren",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dovahren"
     },
     {
       "page": "Force Compressor Mark IV",

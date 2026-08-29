@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T18:48:48.832523+00:00",
+    "generated_at": "2026-08-29T12:45:30.288035+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
     "count": 1075,
@@ -7194,7 +7194,7 @@
       "weather": "Caustic Floods",
       "sky_color": "Green",
       "grass_color": "",
-      "sentinel": "",
+      "sentinel": "Frequent",
       "civilization": "Galactic Hub Project",
       "discovered_by": "",
       "discoverer_page": "",
