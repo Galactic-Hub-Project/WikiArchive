@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T12:44:47.526701+00:00",
+    "generated_at": "2026-08-30T11:59:44.516896+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1450,
+    "count": 1453,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -882,6 +882,22 @@
       "discovered_by": "",
       "discoverer_page": "ZainaLumley",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ZainaLumley"
+    },
+    {
+      "page": "Amika's Exhausted Will",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Amika%27s_Exhausted_Will",
+      "name": "Amika's Exhausted Will",
+      "image_name": "AmikasExhaustedWill-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/0c/AmikasExhaustedWill-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "41440A555D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Amurai Liberator VII",
@@ -15172,6 +15188,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
     },
     {
+      "page": "Sekin's Lucent Inquirer",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sekin%27s_Lucent_Inquirer",
+      "name": "Sekin's Lucent Inquirer",
+      "image_name": "SekinsLucentInquirer-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5f/SekinsLucentInquirer-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11190A556D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Sekinaw's Experiment",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Sekinaw%27s_Experiment",
       "name": "Sekinaw's Experiment",
@@ -18735,6 +18767,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "21D308557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "The Only Zumodemyo",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Only_Zumodemyo",
+      "name": "The Only Zumodemyo",
+      "image_name": "TheOnlyZumodemyo-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/08/TheOnlyZumodemyo-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11190A556D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"

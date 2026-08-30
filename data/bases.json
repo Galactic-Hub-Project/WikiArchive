@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T12:45:10.247819+00:00",
+    "generated_at": "2026-08-30T12:00:07.382199+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1682,
+    "count": 1683,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -20927,6 +20927,21 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "2063F9554C2F"
+    },
+    {
+      "page": "The Base",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Base",
+      "name": "The Base",
+      "image_name": "275850_35.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/275850_35.jpg",
+      "builder": "TakoStream",
+      "builder_link": "TakoStream",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/TakoStream",
+      "game_release": "Xenoarena",
+      "type": "Immersive",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
     },
     {
       "page": "The Beacon",
