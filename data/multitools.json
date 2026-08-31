@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T12:00:35.481279+00:00",
+    "generated_at": "2026-08-31T14:01:17.264570+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Multitools",
-    "count": 383,
+    "count": 384,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3058,6 +3058,22 @@
       "discovered_by": "",
       "discoverer_page": "Cresnautic",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cresnautic"
+    },
+    {
+      "page": "Nano Engine Mark XIV",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nano_Engine_Mark_XIV",
+      "name": "Nano Engine Mark XIV",
+      "image_name": "NanoEngineMarkXIV-Hand.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5f/NanoEngineMarkXIV-Hand.jpg",
+      "type": "MultiToolType",
+      "galaxy": "Eissentam",
+      "glyphs": "102D0A556D31",
+      "civilization": "Galactic Hub Eissentam",
+      "slots": "30",
+      "mt_class": "A",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Nayano's Arc Generator",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T12:00:07.382199+00:00",
+    "generated_at": "2026-08-31T14:00:50.563159+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
     "count": 1683,
@@ -20932,12 +20932,12 @@
       "page": "The Base",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/The_Base",
       "name": "The Base",
-      "image_name": "275850_35.jpg",
-      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/275850_35.jpg",
+      "image_name": "20260829175812 1.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/32/20260829175812_1.jpg",
       "builder": "TakoStream",
       "builder_link": "TakoStream",
       "builder_url": "https://nmsgalactichub.miraheze.org/wiki/TakoStream",
-      "game_release": "Xenoarena",
+      "game_release": "Swarm",
       "type": "Immersive",
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",

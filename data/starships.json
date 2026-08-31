@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T11:59:44.516896+00:00",
+    "generated_at": "2026-08-31T14:00:30.037507+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1453,
+    "count": 1458,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -5348,6 +5348,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "Fire-67I-V-C73",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Fire-67I-V-C73",
+      "name": "Fire-67I-V-C73",
+      "image_name": "Fire-67I-V-C73.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/b1/Fire-67I-V-C73.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "240DFA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Fire-\u03b2\u03b2",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Fire-%CE%B2%CE%B2",
       "name": "Fire-\u03b2\u03b2",
@@ -6767,6 +6783,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "23F2D0589C1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Glass Soul-\u03c0\u03b7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Glass_Soul-%CF%80%CE%B7",
+      "name": "Glass Soul-\u03c0\u03b7",
+      "image_name": "Glass Soul-\u03c0\u03b7.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/9/9c/Glass_Soul-%CF%80%CE%B7.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23F4FA555C30",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -11044,6 +11076,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LucasMdA66"
     },
     {
+      "page": "MV-7 Towanukih",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/MV-7_Towanukih",
+      "name": "MV-7 Towanukih",
+      "image_name": "20260830095332_1.jpg",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/20260830095332_1.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Freighter",
+      "acquisition": "Fabricated",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "1205D058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "TakoStream",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/TakoStream"
+    },
+    {
       "page": "MV-9 Beppusca",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/MV-9_Beppusca",
       "name": "MV-9 Beppusca",
@@ -13023,6 +13071,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "517008557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Provke XT3",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Provke_XT3",
+      "name": "Provke XT3",
+      "image_name": "ProvkeXT3-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/4c/ProvkeXT3-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Frigate",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "41440A555D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -22959,6 +23023,22 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "240ED058AC1D",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "\u039c-Remnant",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%9C-Remnant",
+      "name": "\u039c-Remnant",
+      "image_name": "\u03bc-Remnant.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CE%BC-Remnant.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2422FA555C30",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
