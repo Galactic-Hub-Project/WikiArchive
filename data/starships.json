@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:00:30.037507+00:00",
+    "generated_at": "2026-09-01T11:45:14.558330+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1458,
+    "count": 1462,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3012,6 +3012,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Canuckvirgo"
     },
     {
+      "page": "Burning Mimadach XII",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burning_Mimadach_XII",
+      "name": "Burning Mimadach XII",
+      "image_name": "BurningMimadachXII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/3/3a/BurningMimadachXII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Burning Mistress CV7",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Burning_Mistress_CV7",
       "name": "Burning Mistress CV7",
@@ -3471,6 +3487,22 @@
       "galaxy": "Calypso",
       "civilization": "Galactic Hub Calypso",
       "glyphs": "640AFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
+      "page": "Crimson-\u03be",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crimson-%CE%BE",
+      "name": "Crimson-\u03be",
+      "image_name": "Crimson-\u03be.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/4/49/Crimson-%CE%BE.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "23EFFA555C30",
       "discovered_by": "",
       "discoverer_page": "Texugo",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
@@ -10612,6 +10644,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/ElCapoChino"
     },
     {
+      "page": "MM6 Ukiharao",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/MM6_Ukiharao",
+      "name": "MM6 Ukiharao",
+      "image_name": "MM6Ukiharao-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a1/MM6Ukiharao-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "11130A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "Mogan WX9",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mogan_WX9",
       "name": "Mogan WX9",
@@ -15327,6 +15375,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10930A557D2F",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Serene Hadanonj III",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Serene_Hadanonj_III",
+      "name": "Serene Hadanonj III",
+      "image_name": "SereneHadanonjIII-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/cf/SereneHadanonjIII-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Shuttle",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "602F09556D31",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -21860,9 +21924,9 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/LucasMdA66"
     },
     {
-      "page": "WUI Biradom",
-      "page_url": "https://nmsgalactichub.miraheze.org/wiki/WUI_Biradom",
-      "name": "WUI Biradom",
+      "page": "WU1 Biradom",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/WU1_Biradom",
+      "name": "WU1 Biradom",
       "image_name": "WUIBiradom-Infobox.jpg",
       "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/08/WUIBiradom-Infobox.jpg",
       "game_release": "Xeno Arena",

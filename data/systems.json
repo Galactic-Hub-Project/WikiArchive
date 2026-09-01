@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:01:27.366068+00:00",
+    "generated_at": "2026-09-01T11:46:14.012616+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
-    "count": 714,
+    "count": 715,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -10721,6 +10721,33 @@
       "discovered_by": "",
       "discoverer_page": "Tingene",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tingene"
+    },
+    {
+      "page": "Hub26-167 Tachit-Lank",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hub26-167_Tachit-Lank",
+      "name": "Hub26-167 Tachit-Lank",
+      "image_name": "IMG_1561.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1561.png",
+      "galaxy": "Euclid",
+      "region": "Raidelsba Boundary",
+      "stars": "",
+      "planets": "5",
+      "moons": "1",
+      "color": "Yellow",
+      "spectral_class": "G1p",
+      "glyphs": "5167CE589C1D",
+      "water": "No",
+      "dissonant": "No",
+      "faction": "Vy'keen",
+      "economy": "Scientific",
+      "economy_sell": "45.3",
+      "economy_buy": "-11.9",
+      "wealth": "\u2605 Unsuccessful",
+      "conflict": "2, Testy",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },
     {
       "page": "HUB26-189 Isongyar",

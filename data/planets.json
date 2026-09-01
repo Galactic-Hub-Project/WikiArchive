@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:01:08.535974+00:00",
+    "generated_at": "2026-09-01T11:45:55.480009+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1075,
+    "count": 1076,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -15479,6 +15479,26 @@
       "discovered_by": "Agaroth1",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "PlanetName",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/PlanetName",
+      "name": "PlanetName",
+      "body_type": "Moon",
+      "image_name": "IMG_1560.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1560.png",
+      "galaxy": "Euclid",
+      "glyphs": "3167CE589C1D",
+      "description": "Radioactive Abomination",
+      "biome": "Irradiated",
+      "weather": "Particulate Winds",
+      "sky_color": "Green",
+      "grass_color": "",
+      "sentinel": "Attentive",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },
     {
       "page": "Popleybri G32",

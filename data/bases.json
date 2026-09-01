@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:00:50.563159+00:00",
+    "generated_at": "2026-09-01T11:45:36.810743+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1683,
+    "count": 1686,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -9332,6 +9332,51 @@
       "galaxy": "Euclid",
       "civilization": "Legacy Galactic Hub",
       "glyphs": "3116F9555C31"
+    },
+    {
+      "page": "Hachimi Mambo Convenience Store & Resort",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store_%26_Resort",
+      "name": "Hachimi Mambo Convenience Store & Resort",
+      "image_name": "Screenshot 2026-09-01 155809.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5d/Screenshot_2026-09-01_155809.png",
+      "builder": "",
+      "builder_link": "ProcessAcorn504",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ProcessAcorn504",
+      "game_release": "Xenoarena",
+      "type": "Business",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1082F9557C30"
+    },
+    {
+      "page": "Hachimi Mambo Convenience Store Euclid",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store_Euclid",
+      "name": "Hachimi Mambo Convenience Store Euclid",
+      "image_name": "Screenshot 2026-09-01 172317.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/64/Screenshot_2026-09-01_172317.png",
+      "builder": "",
+      "builder_link": "ProcessAcorn504",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ProcessAcorn504",
+      "game_release": "Xenoarena",
+      "type": "Business",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "2205D058AC1D"
+    },
+    {
+      "page": "Hachimi Mambo Convenience Store Igori",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store_Igori",
+      "name": "Hachimi Mambo Convenience Store Igori",
+      "image_name": "Screenshot 2026-09-01 162308.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/5/5c/Screenshot_2026-09-01_162308.png",
+      "builder": "",
+      "builder_link": "ProcessAcorn504",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ProcessAcorn504",
+      "game_release": "Xenoarena",
+      "type": "Business",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2063F9554C2F"
     },
     {
       "page": "Half Moon Amphitheater",
