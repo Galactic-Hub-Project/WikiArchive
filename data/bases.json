@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T11:45:36.810743+00:00",
+    "generated_at": "2026-09-02T11:26:26.651721+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1686,
+    "count": 1688,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -5029,6 +5029,21 @@
       "glyphs": "20A1FA555C30"
     },
     {
+      "page": "Dirty Dan's Observation Deck Worm Viewing",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan%27s_Observation_Deck_Worm_Viewing",
+      "name": "Dirty Dan's Observation Deck Worm Viewing",
+      "image_name": "IMG_1563.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1563.png",
+      "builder": "",
+      "builder_link": "Dirty Dan94806",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806",
+      "game_release": "Xeno Arena",
+      "type": "Immersive",
+      "galaxy": "Euclid",
+      "civilization": "Galactic Hub Project",
+      "glyphs": "1193CE588C1D"
+    },
+    {
       "page": "Disco's Cozy Cabin",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Disco%27s_Cozy_Cabin",
       "name": "Disco's Cozy Cabin",
@@ -9362,6 +9377,21 @@
       "galaxy": "Euclid",
       "civilization": "Galactic Hub Project",
       "glyphs": "2205D058AC1D"
+    },
+    {
+      "page": "Hachimi Mambo Convenience Store Fuchsia",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store_Fuchsia",
+      "name": "Hachimi Mambo Convenience Store Fuchsia",
+      "image_name": "Screenshot 2026-09-01 223530.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/b/ba/Screenshot_2026-09-01_223530.png",
+      "builder": "",
+      "builder_link": "ProcessAcorn504",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ProcessAcorn504",
+      "game_release": "Xenoarena",
+      "type": "Business",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "10AA09555D2F"
     },
     {
       "page": "Hachimi Mambo Convenience Store Igori",

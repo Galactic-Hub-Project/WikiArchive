@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T11:45:55.480009+00:00",
+    "generated_at": "2026-09-02T11:26:43.994066+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1076,
+    "count": 1080,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -11601,6 +11601,26 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Tarloch"
     },
     {
+      "page": "Mogan 26/W8",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mogan_26/W8",
+      "name": "Mogan 26/W8",
+      "body_type": "Planet",
+      "image_name": "1a0610ac1e427-screenshotUrl.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/da/1a0610ac1e427-screenshotUrl.jpg",
+      "galaxy": "Euclid",
+      "glyphs": "20D3CE588C1E",
+      "description": "Abandoned Crucible",
+      "biome": "Scorched",
+      "weather": "Dehydrated",
+      "sky_color": "Yellow",
+      "grass_color": "Orange",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "RetroTerrestrial",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/RetroTerrestrial"
+    },
+    {
       "page": "Mogo II",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mogo_II",
       "name": "Mogo II",
@@ -15961,6 +15981,26 @@
       "discoverer_url": ""
     },
     {
+      "page": "Ralanch X",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ralanch_X",
+      "name": "Ralanch X",
+      "body_type": "Planet",
+      "image_name": "ralanch_archive.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/ralanch_archive.png",
+      "galaxy": "Euclid",
+      "glyphs": "3120CE588C1D",
+      "description": "Tropical",
+      "biome": "Lush",
+      "weather": "Boiling Puddles",
+      "sky_color": "Pink",
+      "grass_color": "Green",
+      "sentinel": "Low Security",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Grimmstein",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Grimmstein"
+    },
+    {
       "page": "Raltham",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Raltham",
       "name": "Raltham",
@@ -16139,6 +16179,26 @@
       "discovered_by": "[[User:Tjawsome7305|A random Typewriter]]",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Redbrida Hiso",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Redbrida_Hiso",
+      "name": "Redbrida Hiso",
+      "body_type": "Moon",
+      "image_name": "IMG_1560.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1560.png",
+      "galaxy": "Euclid",
+      "glyphs": "",
+      "description": "Radioactive Abomination",
+      "biome": "Irradiated",
+      "weather": "Particulate Winds",
+      "sky_color": "Green",
+      "grass_color": "",
+      "sentinel": "",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },
     {
       "page": "Reflection & Remembrance",
@@ -20499,6 +20559,26 @@
       "discovered_by": "Krentebol01",
       "discoverer_page": "",
       "discoverer_url": ""
+    },
+    {
+      "page": "Wakk 20/C6",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Wakk_20/C6",
+      "name": "Wakk 20/C6",
+      "body_type": "Planet",
+      "image_name": "IMG_1570.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/IMG_1570.png",
+      "galaxy": "Euclid",
+      "glyphs": "",
+      "description": "",
+      "biome": "",
+      "weather": "Sporadic Grit Storms",
+      "sky_color": "Blue/Red/Green/Yellow/Purple/Orange",
+      "grass_color": "",
+      "sentinel": "Frequent",
+      "civilization": "Galactic Hub Project",
+      "discovered_by": "",
+      "discoverer_page": "Dirty Dan94806",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Dirty_Dan94806"
     },
     {
       "page": "Walan HB",

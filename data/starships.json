@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T11:45:14.558330+00:00",
+    "generated_at": "2026-09-02T11:26:05.861823+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1462,
+    "count": 1466,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -3604,6 +3604,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
+      "page": "Crystal Wings KG7",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Crystal_Wings_KG7",
+      "name": "Crystal Wings KG7",
+      "image_name": "CrystalWingsKG7-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/f/f5/CrystalWingsKG7-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Hauler",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "60AB08556D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
       "page": "CS-3 Rotoshib",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/CS-3_Rotoshib",
       "name": "CS-3 Rotoshib",
@@ -6020,6 +6036,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nyeks"
     },
     {
+      "page": "Flying Handoqu XVI",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flying_Handoqu_XVI",
+      "name": "Flying Handoqu XVI",
+      "image_name": "Flying Handoqu XVI.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/6/61/Flying_Handoqu_XVI.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1419FA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Flying Marvel YP9",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Flying_Marvel_YP9",
       "name": "Flying Marvel YP9",
@@ -7023,6 +7055,22 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "219808555D30",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Gravity Toongilt V",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Gravity_Toongilt_V",
+      "name": "Gravity Toongilt V",
+      "image_name": "GravityToongiltV-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/de/GravityToongiltV-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Fighter",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "21150A557D2F",
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
@@ -14930,6 +14978,22 @@
       "discovered_by": "",
       "discoverer_page": "it.is.bruce",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/it.is.bruce"
+    },
+    {
+      "page": "Salvaged-66U-9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Salvaged-66U-9",
+      "name": "Salvaged-66U-9",
+      "image_name": "Salvaged-66U-9.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/Salvaged-66U-9.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2419FA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Salvaged-68P-AJ5/6",
