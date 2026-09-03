@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T11:26:05.861823+00:00",
+    "generated_at": "2026-09-03T11:21:59.924040+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Starships",
-    "count": 1466,
+    "count": 1471,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -306,6 +306,22 @@
       "discovered_by": "",
       "discoverer_page": "OhDraw",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
+    },
+    {
+      "page": "Aeron-3/E98-XH9",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Aeron-3/E98-XH9",
+      "name": "Aeron-3/E98-XH9",
+      "image_name": "Aeron-3-E98-XH9.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/1/19/Aeron-3-E98-XH9.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "5416FA555C30",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Aeron-9-2E",
@@ -10260,6 +10276,22 @@
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Odinsvagt"
     },
     {
+      "page": "Magnificent Uozulu VI",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Magnificent_Uozulu_VI",
+      "name": "Magnificent Uozulu VI",
+      "image_name": "Magnificent Uozulu VI.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/2/2f/Magnificent_Uozulu_VI.png",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1062F9555C2E",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
+    },
+    {
       "page": "Mariasay Trailblazer XVI",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mariasay_Trailblazer_XVI",
       "name": "Mariasay Trailblazer XVI",
@@ -11570,6 +11602,22 @@
       "discovered_by": "",
       "discoverer_page": "Randomner",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Randomner"
+    },
+    {
+      "page": "NH2 Zaifur",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/NH2_Zaifur",
+      "name": "NH2 Zaifur",
+      "image_name": "NH2Zaifur-Infobox.jpg",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/08/NH2Zaifur-Infobox.jpg",
+      "game_release": "Xeno Arena",
+      "type": "Exotic",
+      "acquisition": "Authenticated",
+      "galaxy": "Eissentam",
+      "civilization": "Galactic Hub Eissentam",
+      "glyphs": "103208555D31",
+      "discovered_by": "",
+      "discoverer_page": "OhDraw",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/OhDraw"
     },
     {
       "page": "Nichiha of Clouds",
@@ -13218,6 +13266,22 @@
       "discovered_by": "",
       "discoverer_page": "YucaFrita",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/YucaFrita"
+    },
+    {
+      "page": "Purged-44B-K38",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Purged-44B-K38",
+      "name": "Purged-44B-K38",
+      "image_name": "Purged-44B-K38.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/a/a4/Purged-44B-K38.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "2420FA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "Purged-5-RY3",
@@ -23330,6 +23394,22 @@
       "discovered_by": "",
       "discoverer_page": "Nasty&Naughty",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Nasty%26Naughty"
+    },
+    {
+      "page": "\u03a5-Purged",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/%CE%A5-Purged",
+      "name": "\u03a5-Purged",
+      "image_name": "\u03c5-Purged.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/%CF%85-Purged.png",
+      "game_release": "Xeno Arena",
+      "type": "Interceptor",
+      "acquisition": "Authenticated",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "440CFA555C31",
+      "discovered_by": "",
+      "discoverer_page": "Texugo",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Texugo"
     },
     {
       "page": "\u03a5-Reborn",

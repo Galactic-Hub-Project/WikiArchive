@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T11:27:01.884226+00:00",
+    "generated_at": "2026-09-03T11:22:55.846794+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
     "count": 717,
@@ -10305,7 +10305,7 @@
       "spectral_class": "G1p",
       "glyphs": "117008557D2F",
       "water": "Yes",
-      "dissonant": "0",
+      "dissonant": "No",
       "faction": "Gek",
       "economy": "Advanced Materials",
       "economy_sell": "44.5%",
