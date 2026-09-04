@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:22:20.581568+00:00",
+    "generated_at": "2026-09-04T11:25:45.598591+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Bases",
-    "count": 1688,
+    "count": 1689,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -9392,6 +9392,21 @@
       "galaxy": "Eissentam",
       "civilization": "Galactic Hub Eissentam",
       "glyphs": "10AA09555D2F"
+    },
+    {
+      "page": "Hachimi Mambo Convenience Store HighSeas",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store_HighSeas",
+      "name": "Hachimi Mambo Convenience Store HighSeas",
+      "image_name": "Screenshot 2026-09-03 234919.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c8/Screenshot_2026-09-03_234919.png",
+      "builder": "",
+      "builder_link": "ProcessAcorn504",
+      "builder_url": "https://nmsgalactichub.miraheze.org/wiki/ProcessAcorn504",
+      "game_release": "Xenoarena",
+      "type": "Business",
+      "galaxy": "Calypso",
+      "civilization": "Galactic Hub Calypso",
+      "glyphs": "1079F9554C2E"
     },
     {
       "page": "Hachimi Mambo Convenience Store Igori",

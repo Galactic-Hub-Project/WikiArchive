@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:22:55.846794+00:00",
+    "generated_at": "2026-09-04T11:26:21.188103+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Systems",
     "count": 717,
@@ -5018,7 +5018,7 @@
       "economy": "Manufacturing",
       "economy_sell": "62.5%",
       "economy_buy": "-20.6%",
-      "wealth": "\u2605\u2605\u2605(Affluent)",
+      "wealth": "\u2605\u2605\u2605 (Affluent)",
       "conflict": "3 (Lawless)",
       "civilization": "Galactic Hub Eissentam",
       "discovered_by": "",

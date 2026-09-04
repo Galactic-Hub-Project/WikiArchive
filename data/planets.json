@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:22:38.002959+00:00",
+    "generated_at": "2026-09-04T11:26:03.309658+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Planets",
-    "count": 1080,
+    "count": 1083,
     "available_fields": {
       "planets": [
         "_pageName=Page",
@@ -11081,6 +11081,26 @@
       "discoverer_url": ""
     },
     {
+      "page": "Mempostosi Suji",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Mempostosi_Suji",
+      "name": "Mempostosi Suji",
+      "body_type": "Planet",
+      "image_name": "Mempostosi Sujinight.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/e/ea/Mempostosi_Sujinight.png",
+      "galaxy": "Calypso",
+      "glyphs": "23F1F9554C31",
+      "description": "Noxious",
+      "biome": "Toxic",
+      "weather": "Corrosive Storms",
+      "sky_color": "Green",
+      "grass_color": "Green",
+      "sentinel": "Forsaken",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "",
+      "discoverer_page": "Cheddarz",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cheddarz"
+    },
+    {
       "page": "Menuscu",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Menuscu",
       "name": "Menuscu",
@@ -13839,6 +13859,26 @@
       "discovered_by": "",
       "discoverer_page": "DarkOakMetarex",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/DarkOakMetarex"
+    },
+    {
+      "page": "Nukongkok G37",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Nukongkok_G37",
+      "name": "Nukongkok G37",
+      "body_type": "Moon",
+      "image_name": "Nukongkok G37landscape.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/d/da/Nukongkok_G37landscape.png",
+      "galaxy": "Calypso",
+      "glyphs": "43F1F9554C31",
+      "description": "Dead",
+      "biome": "Dead",
+      "weather": "Clear",
+      "sky_color": "",
+      "grass_color": "",
+      "sentinel": "Sharded from the Atlas",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "",
+      "discoverer_page": "Cheddarz",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cheddarz"
     },
     {
       "page": "Numeniu Delta",
@@ -17199,6 +17239,26 @@
       "discovered_by": "",
       "discoverer_page": "nomoregoldlights",
       "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/nomoregoldlights"
+    },
+    {
+      "page": "Ruduene A36",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Ruduene_A36",
+      "name": "Ruduene A36",
+      "body_type": "Moon",
+      "image_name": "Ruduene A36landscape.png",
+      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/0/03/Ruduene_A36landscape.png",
+      "galaxy": "Calypso",
+      "glyphs": "33F1F9554C31",
+      "description": "Parched",
+      "biome": "Barren",
+      "weather": "Blasted Atmosphere",
+      "sky_color": "",
+      "grass_color": "",
+      "sentinel": "Aggressive",
+      "civilization": "Galactic Hub Calypso",
+      "discovered_by": "",
+      "discoverer_page": "Cheddarz",
+      "discoverer_url": "https://nmsgalactichub.miraheze.org/wiki/Cheddarz"
     },
     {
       "page": "Rundha Delta",

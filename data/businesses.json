@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:23:00.314502+00:00",
+    "generated_at": "2026-09-04T11:26:26.312194+00:00",
     "source": "https://nmsgalactichub.miraheze.org/w/api.php",
     "table": "Businesses",
-    "count": 88,
+    "count": 89,
     "available_fields": [
       "_pageName=Page",
       "Name",
@@ -512,6 +512,19 @@
       "hide_page": ""
     },
     {
+      "page": "Hachimi Mambo Convenience Store",
+      "page_url": "https://nmsgalactichub.miraheze.org/wiki/Hachimi_Mambo_Convenience_Store",
+      "name": "Hachimi Mambo Convenience Store",
+      "image_name": "File:Hachimi(1).png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/File%3AHachimi%281%29.png",
+      "description": "Residing in the capital of Calypso Hub",
+      "services": "",
+      "vanilla": "Yes",
+      "owner": "Yes",
+      "civilization": "",
+      "hide_page": ""
+    },
+    {
       "page": "HubGrub",
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/HubGrub",
       "name": "HubGrub",
@@ -633,7 +646,7 @@
       "page_url": "https://nmsgalactichub.miraheze.org/wiki/Lactic_Hub",
       "name": "Lactic Hub",
       "image_name": "Lactic Hub .png",
-      "image_url": "https://static.wikitide.net/nmsgalactichubwiki/c/c5/Lactic_Hub_.png",
+      "image_url": "https://nmsgalactichub.miraheze.org/wiki/Special:FilePath/Lactic%20Hub%20.png",
       "description": "Milk, eggs, and other treats",
       "services": "Diary products",
       "vanilla": "",
